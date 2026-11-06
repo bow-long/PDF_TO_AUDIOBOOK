@@ -1,83 +1,177 @@
 # PDF to Audiobook
 
-CPU-only, resumable PDF extraction/OCR to Piper TTS and WAV/MP3 assembly.
+This project converts a PDF file to an audiobook.
 
-Install the pipeline and its PDF/OCR dependencies:
+The program:
+
+- Reads text from the PDF.
+- Uses Indra OCR for pages with little or no text.
+- Creates WAV audio segments with Piper TTS.
+- Combines the segments into one audiobook.
+- Saves progress so you can run the process again.
+
+## Requirements
+
+Install Python 3.10 or later.
+
+Install the project and its dependencies:
 
 ```powershell
 python -m pip install -e ".[pdf,ocr,piper]"
 ```
 
-Run the complete pipeline in one command:
+The `piper` extra installs Piper TTS.
+The `ocr` extra installs Indra OCR.
+The `pdf` extra installs PDF page rendering support.
 
-```powershell
-python -m pdf_audiobook -v en_US-lessac-medium
+## Folder setup
+
+Create these folders in the project folder:
+
+```text
+PDF_TO_AUDIOBOOK\
+  file_input\
+  voices\
 ```
 
-You can also run it without any command-line arguments. Edit the settings at
-the top of [`pdf_audiobook/__main__.py`](./pdf_audiobook/__main__.py), then
-press Run in VS Code or run:
+Put one PDF file in `file_input`.
+
+Put the Piper voice files in `voices`:
+
+```text
+voices\
+  en_US-amy-medium.onnx
+  en_US-amy-medium.onnx.json
+```
+
+The `.onnx` file and the `.onnx.json` file must have the same base name.
+
+## Run from VS Code
+
+The recommended method does not use command-line arguments.
+
+Open [pdf_audiobook/__main__.py](./pdf_audiobook/__main__.py).
+Edit these settings when required:
+
+```python
+INPUT_FOLDER = Path("file_input")
+OUTPUT_FOLDER = Path("Output")
+VOICES_FOLDER = Path("voices")
+VOICE_NAME = ""
+```
+
+Set `VOICE_NAME` to the voice file name or voice name.
+For example:
+
+```python
+VOICE_NAME = "en_US-amy-medium"
+```
+
+Leave `VOICE_NAME` empty when `voices` contains one `.onnx` file.
+
+Press **Run Python File** in VS Code.
+
+You can also run the file from the project folder:
 
 ```powershell
 python pdf_audiobook\__main__.py
 ```
 
-The script uses `file_input`, `output`, and `voices` by default. Set
-`VOICE_NAME` to the voice filename or stem when the `voices` folder contains
-more than one model.
+The program checks the PDF and the voice before it starts processing.
+It shows progress for page processing and audio creation.
 
-TTS uses `workers` from [`config.py`](./pdf_audiobook/config.py) to generate
-multiple segment buffers in parallel. Segment order is preserved when the
-final audiobook is assembled. To combine existing buffers separately, edit
-the settings in [`combine_audio.py`](./combine_audio.py) and run:
+## Output
+
+The program creates the `Output` folder:
+
+```text
+Output\
+  pages\       Text from each PDF page
+  segments\    WAV audio files
+  audiobook.wav
+  report.json
+```
+
+The segment file names show their order.
+The program uses this order when it creates `audiobook.wav`.
+
+## Combine existing segments
+
+Use [combine_audio.py](./combine_audio.py) to combine existing WAV segments.
+
+Edit these settings in the file:
+
+```python
+SEGMENTS_FOLDER = Path("Output/segments")
+FINAL_OUTPUT = Path("Output/audiobook.wav")
+```
+
+Run the script:
 
 ```powershell
 python combine_audio.py
 ```
 
-Put exactly one PDF in `file_input` and the Piper model plus its `.onnx.json`
-metadata file in `voices`. The command discovers the selected voice, validates
-it, reads/OCRs each PDF page, creates each audio buffer, and shows progress for
-both phases while writing:
+The script combines all `.wav` files in `SEGMENTS_FOLDER`.
+It sorts the files by name before it combines them.
 
-```text
-output/
-  pages/              extracted or OCR text, one file per PDF page
-  segments/           individual WAV audio buffers
-  audiobook.wav       combined final audiobook
-  report.json         completion summary
+## Parallel processing
+
+The program can create several audio segments at the same time.
+The number of workers is set in
+[pdf_audiobook/config.py](./pdf_audiobook/config.py).
+
+For example:
+
+```python
+workers: int = 4
 ```
 
-Use the installed command instead if preferred:
+The final audiobook keeps the correct segment order.
+
+## OCR
+
+Indra OCR runs automatically when a PDF page has too little extractable text.
+Indra may download its OCR models the first time that it runs.
+
+To use Tesseract instead of Indra with the command-based interface, use:
 
 ```powershell
-pdf-audiobook -v en_US-lessac-medium
+python -m pdf_audiobook process book.pdf -o Output `
+  --piper-model voices\en_US-amy-medium.onnx `
+  --no-use-indra
 ```
 
-In VS Code, prefer running `python -m pdf_audiobook ...` from the project root.
-The module entry point also supports launching `pdf_audiobook\__main__.py`
-directly.
+Tesseract requires the `pytesseract` Python package and the Tesseract
+program installed on the computer.
 
-An explicit PDF path is also supported:
+## MP3 output
+
+WAV output does not require FFmpeg.
+MP3 output requires FFmpeg.
+
+The command-based interface can create MP3 output:
 
 ```powershell
-python -m pdf_audiobook process book.pdf -o output --piper-model voices/en_US-lessac-medium.onnx
+python -m pdf_audiobook process book.pdf -o Output `
+  --piper-model voices\en_US-amy-medium.onnx `
+  --output-format mp3
 ```
 
-If `voices` contains exactly one model, `-v` can be omitted:
+## Command-based interface
+
+The package also provides a command-based interface.
+Run it from the project folder:
 
 ```powershell
 python -m pdf_audiobook
 ```
 
-Use `--input`, `--output`, and `--voices` to override the default folders.
-
-The pipeline uses the installed Piper Python module automatically. Indra OCR
-is used automatically for pages without enough extractable text. If Piper is
-not installed yet, run:
+Use `-v` to select a voice:
 
 ```powershell
-python -m pip install piper-tts
+python -m pdf_audiobook -v en_US-amy-medium
 ```
 
-Indra OCR 1.1.2 is an optional lazy integration (Python 3.10+, ONNX Runtime CPU); it may download models on first use. Disable it with `--no-use-indra` to use Tesseract (`pytesseract` plus the system Tesseract executable). Piper is invoked as an external executable with a local `.onnx` voice model; missing tools produce explicit errors. MP3 output additionally requires FFmpeg. Completed page and segment artifacts are retained under the output directory and are safe to resume.
+Use `--input`, `--output`, and `--voices` to select different folders.
+
