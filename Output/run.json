@@ -1,0 +1,2879 @@
+{
+  "config_fingerprint": "2e37cd829bc5bc1602d52b296551d0c8489868f78879d4410804ae934c6e8b69",
+  "errors": [],
+  "input": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\file_input\\Wild swans _ [three daughters of China -- Jung Chang; Rowena Cooper -- Bath, England, Hampton, NH, \u21171995 -- Chivers Audio Books ; Chivers North -- isbn13 9780745165257 -- bd57b02c42403301c2aec169347c05f9 -- Anna\u2019s Archive.pdf",
+  "input_sha256": "4e311cc2fee43e0f070c1cf601075f57de845cf5c24f01002e5dce0c1296c2a3",
+  "pages": {},
+  "segments": {
+    "000000": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000000.wav",
+      "sha256": "f7dbfb6c5239d1910eac7ebad727bd2b7e38731190282f583f074fc3a6eb8b73"
+    },
+    "000001": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000001.wav",
+      "sha256": "c848676790f7e5b554050b6a99107fcb30a94d5df1a48f8113072b7f632f832b"
+    },
+    "000002": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000002.wav",
+      "sha256": "acc0c3b40a5c909ca1e60469eafee3abdddce46a9a13748c214c5f807d7e6d3d"
+    },
+    "000003": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000003.wav",
+      "sha256": "2520c225750671875e20a864b1a23f2e390144a67799b8c62b854e36aa430e82"
+    },
+    "000004": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000004.wav",
+      "sha256": "71f813dc7b1267de882d78219bf2464bc73db3a291b6339ca69ecf241ce99a58"
+    },
+    "000005": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000005.wav",
+      "sha256": "5e6eeb20f57e9b8a20e6eeff7e9c95642e68bebfad3d6d4352ce127e3242d9f0"
+    },
+    "000006": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000006.wav",
+      "sha256": "abad6f456eabe274f72c9fcbfa713059a78953bf3665c0d1f5f291d4d1a04f64"
+    },
+    "000007": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000007.wav",
+      "sha256": "0c868a411c223a97d933da7ff691738e0049fb1c982579af661e6a0189ca7962"
+    },
+    "000008": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000008.wav",
+      "sha256": "0899a648783422f7c89e3aa0470425bf3ccbfe350fe0caf279612dfdb81c5acf"
+    },
+    "000009": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000009.wav",
+      "sha256": "3d36b94a7005f1494b8196e5a0394eeca03530107ebf30b2d761f00c20c832a8"
+    },
+    "000010": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000010.wav",
+      "sha256": "d1ca4c5731178694f90ac59ab4430117a9dc9dfb933a0d30b430b13dcd14e74e"
+    },
+    "000011": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000011.wav",
+      "sha256": "201ee7b4d6704b9c3841745de6222be75e5a1f397d80c1d9264a23f705eb8ed1"
+    },
+    "000012": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000012.wav",
+      "sha256": "77229f9ac816d76227b276d344daefa4429c67ab658d5fbf1eb2c7629ffbab12"
+    },
+    "000013": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000013.wav",
+      "sha256": "5a674861a3ef2c515ce72bb69c5886bc8353ad32516dbe7aff53bddd61da3555"
+    },
+    "000014": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000014.wav",
+      "sha256": "ebefa3fb34b81cbe9eeea3227232c2504d770c675910e8a774231d569e0b916f"
+    },
+    "000015": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000015.wav",
+      "sha256": "26b1adc4a4b3cba6f33a9b9cb046fe326336c5f46dbf105a7546decb3b17f365"
+    },
+    "000016": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000016.wav",
+      "sha256": "33c29bf2c71272f5ca9fa27eaebd18d9a93afd539319cb619d2305aa6d3cc78c"
+    },
+    "000017": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000017.wav",
+      "sha256": "0f6a5780e963cbbe6cb95c290de17e0d24d20620058da050b380ae8502bdb63a"
+    },
+    "000018": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000018.wav",
+      "sha256": "2ab07e275770d2d26cefccd22b7603dfb2c002b1eb125321b2691aec123ee37e"
+    },
+    "000019": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000019.wav",
+      "sha256": "eec837b2ab493a39deb4f7dc86580297036be645a70555ef6a60b54fdcf4e48f"
+    },
+    "000020": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000020.wav",
+      "sha256": "f380817a33c7b81c6dbff9db5ddba5f43101ee4911a28ddb06111bf9e5ecc3d3"
+    },
+    "000021": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000021.wav",
+      "sha256": "71b5e0c710b77f626b7a2aa3c9ca37125902e53e322f657aa63ba61999ace5e5"
+    },
+    "000022": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000022.wav",
+      "sha256": "68f2f5187a857c6fa918e2f2759d59025423efbbf23ed082e0b6218ce753ab9f"
+    },
+    "000023": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000023.wav",
+      "sha256": "3f9b0b2cb8db0e301ddb9a0df1c14f9369d1bb4334daa4f055736a10debdc167"
+    },
+    "000024": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000024.wav",
+      "sha256": "4413a6826eaacc30725794f53c353847c42833fa655dd83ab351b9442b69dc46"
+    },
+    "000025": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000025.wav",
+      "sha256": "cb832fb79a4eed5b79cc3993ff3b67b5878f046c9f86ffb79700818ada924057"
+    },
+    "000026": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000026.wav",
+      "sha256": "67cab6efd9dbb4a0d0f0e2c182e78d81ac18bbdfb827a2069e61479cbc6e8812"
+    },
+    "000027": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000027.wav",
+      "sha256": "dc6414ff9857e6b2b3f0c8733455a5ce3b54b96f3d5ae58030348ce4a51aa316"
+    },
+    "000028": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000028.wav",
+      "sha256": "d9ca421d21deed78f4da1914c9c7e6934692d08f6276593bc930a1be3f7be076"
+    },
+    "000029": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000029.wav",
+      "sha256": "4cd9e633f550dcdda1fd47ad868a0c71915fa819cf6ee4d84dd04094dae46fb7"
+    },
+    "000030": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000030.wav",
+      "sha256": "30d7b223f19e65011fe55073039a3e5af01482cc162023710a9eccabb1beb912"
+    },
+    "000031": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000031.wav",
+      "sha256": "1e04a1eb1175b83118598c4f48dae05a08cda13b82511702178cc87c68dcda1e"
+    },
+    "000032": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000032.wav",
+      "sha256": "1081796bd9c51e535a396d0b38f850d075e557cfdb029c4a25057c30d00d277b"
+    },
+    "000033": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000033.wav",
+      "sha256": "907adcbe1065cc8c91b568810a407877ef75f0893942f7611c9bb486c6b0c42a"
+    },
+    "000034": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000034.wav",
+      "sha256": "93b7d3a6d1f335a9ac97cbe345f2e81d4878c016a36af28a4266aaa8c072df45"
+    },
+    "000035": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000035.wav",
+      "sha256": "a42b04038b3d132933db6d0a9ddc3ce2909248118d37b89103f0a486ff9c02a1"
+    },
+    "000036": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000036.wav",
+      "sha256": "825a5127a17d5a7a91c01f1f1cf6241e01ed5035e739d5da31eceb9220c1e3b5"
+    },
+    "000037": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000037.wav",
+      "sha256": "e2516fa6b57cc773600c83932f1570b7c6db89c2687a79bf26e2fb3ebf114c15"
+    },
+    "000038": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000038.wav",
+      "sha256": "8d1d1a5a360e6949d31bbedc209e2fc85cdc19fab80688c8bd70b714171b9a70"
+    },
+    "000039": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000039.wav",
+      "sha256": "7f10b21c6df5d1824de3dea01253c5707124af07679ea8354e3f60f7b1ddda56"
+    },
+    "000040": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000040.wav",
+      "sha256": "00254545696b8bad335208a9fe5868a2314c95d8e42141dd4d45f3734cc4eb8b"
+    },
+    "000041": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000041.wav",
+      "sha256": "1e224b92441b2ee08cf1dc62b1b33f7b144e634fe1f82e782f21c4a685440218"
+    },
+    "000042": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000042.wav",
+      "sha256": "03d3f4dc3682698ca3f5337cf51105ed308c462d7e7498257979ab94155b2f19"
+    },
+    "000043": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000043.wav",
+      "sha256": "3e2991bd36b7195362f2672406dc996a15ff8e8fb5b9ed1233e201b23271f674"
+    },
+    "000044": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000044.wav",
+      "sha256": "1a0f56623f75dd1c6c5fad20d3136acd8cc5c6a2277e3d1c6633544e4d11daca"
+    },
+    "000045": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000045.wav",
+      "sha256": "f59c0e6dfa0053852d3680860f9888aae575e95b365664a965b6c8c04f6fcbc6"
+    },
+    "000046": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000046.wav",
+      "sha256": "3188697afb9ae11f0fdd3f806ca587c912f061600e8b8a915638db21935e71b6"
+    },
+    "000047": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000047.wav",
+      "sha256": "e990722cd0a31b653e9e71169a762dae639ceccbddcb63c023082eeb501ccec5"
+    },
+    "000048": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000048.wav",
+      "sha256": "3800655f5c3df01b1cc482cd5d4a1f399b99ae1e933bb12a0a44200037afea00"
+    },
+    "000049": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000049.wav",
+      "sha256": "bfff76d89880ab56dd1f83fc4b8ca5e0b21a267e964148d2aaeea633b8b9180b"
+    },
+    "000050": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000050.wav",
+      "sha256": "86c50910c387949a8c41e39113c89c6540bff3d9a51011b15416d8cb4429924a"
+    },
+    "000051": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000051.wav",
+      "sha256": "982db1b5d748708f7fbd03cea95f01f800b6cbfd5b1a1d783c35e194a55eb417"
+    },
+    "000052": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000052.wav",
+      "sha256": "dda05b6d3a3229895b101ff44f4df78e54c6c739d463bb7cb16eee6a1ddbd806"
+    },
+    "000053": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000053.wav",
+      "sha256": "531e795c8f2619574904c8b464087e22825380dce04c5270ae0877658c8173e0"
+    },
+    "000054": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000054.wav",
+      "sha256": "3751c5f415c96a74782ab728cd6facae8202f2baa362c5cb4fea5182b0eaea79"
+    },
+    "000055": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000055.wav",
+      "sha256": "21c26f47640613662984a464e5ccff3d749b797262b779a384086d7b925c6a5d"
+    },
+    "000056": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000056.wav",
+      "sha256": "f0711b1b514184d2b2e534e2269a0cfddb5169d917485c391ff62d6068cb2f4e"
+    },
+    "000057": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000057.wav",
+      "sha256": "530ca82b0295aa7ef6132360a615de49b7c17773c7d09d01de9226c04a6873bd"
+    },
+    "000058": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000058.wav",
+      "sha256": "898a8e8229b3c911ab1d1b60ccb78c73c0bb525cb968d16f51c6defc386add1a"
+    },
+    "000059": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000059.wav",
+      "sha256": "6a461043352cd194033f4317fdd7ebd18c2b63e4f02eec02e8dcd3e955d77552"
+    },
+    "000060": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000060.wav",
+      "sha256": "1d7707b617d307cec5e42bd6a61246ed307be7456f528ecf53c0b7822f80fd75"
+    },
+    "000061": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000061.wav",
+      "sha256": "22f95f94ffca1a56a180678b954a678c451e726542fe5127eba8e264c37b6141"
+    },
+    "000062": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000062.wav",
+      "sha256": "dc2ba3efe3464b7f7c89bd71a7a26a4fe5fc6bfdd922a59f756d1cce14b2180e"
+    },
+    "000063": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000063.wav",
+      "sha256": "46e51b548602571850620c40af73ef971ffa849cfe750e4f5b16ef2513afbe34"
+    },
+    "000064": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000064.wav",
+      "sha256": "adf0abe7abaf51a4a6d7708020308cb48d9eecb2b4a22e34cab76d045584d100"
+    },
+    "000065": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000065.wav",
+      "sha256": "62f2eebf1be7c20672463d654d8a557802573752627f15d49e999ce65379f4ac"
+    },
+    "000066": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000066.wav",
+      "sha256": "f0f34c79ddd228de40a4510a73a0bb65a4dd1b504c46ce8851b186187e01fefb"
+    },
+    "000067": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000067.wav",
+      "sha256": "d49dad73d90c89c0b686eb5c1a503e49498e5de147e8a4cbdfa6f5580100a9ce"
+    },
+    "000068": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000068.wav",
+      "sha256": "471db6d253c3111fff56e8845a675fc0ce0fcab6ca6214869fdcad4b22669bfd"
+    },
+    "000069": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000069.wav",
+      "sha256": "9747c9d60a16d377ee4f7b0736eee15b0e0fc3d8d699169a5e2cf2c45225944c"
+    },
+    "000070": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000070.wav",
+      "sha256": "591293bde18b403031ca9e88c0298a55343fce30b2a284cd6538717255edc56f"
+    },
+    "000071": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000071.wav",
+      "sha256": "db8a9b7926df09f4e16f64ac053d9c8c91cca101cc42de02bdf701070be56216"
+    },
+    "000072": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000072.wav",
+      "sha256": "6ec1fbd71ffe025da33af177743756a8ff0ced1082dec473237f230b99dc2dbf"
+    },
+    "000073": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000073.wav",
+      "sha256": "e6440d7e816438df99719d1d51baa536d3f1e3aa7b08b1dfbe45e9fc7c6d7c13"
+    },
+    "000074": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000074.wav",
+      "sha256": "dac57277013e52e470d3c84fad22d4dc521019dcd47a5843647c8a2bf960c66a"
+    },
+    "000075": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000075.wav",
+      "sha256": "1b44d5fddbabf4cff7dba839706584360c95727817d0726cd1a33e3ce34b40ac"
+    },
+    "000076": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000076.wav",
+      "sha256": "2f4267e6ca52a9022bb32581ef094f75c93143088eae377c9a284cfe0b717a7f"
+    },
+    "000077": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000077.wav",
+      "sha256": "65cd7b209ea90fb36e335c7469eabdc23415c0a29d74bab2eb81951137f333be"
+    },
+    "000078": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000078.wav",
+      "sha256": "81361bac18af69e07bae1167af02093c00c962d0ecd12a08d046749c55433ea9"
+    },
+    "000079": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000079.wav",
+      "sha256": "ccbb60afa6a989cdbbeb979fbe01ab94a0b3cbacd4c16ca994ec0b60d8aa7e78"
+    },
+    "000080": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000080.wav",
+      "sha256": "7c3a6101c7d4f9ac2cf58978304eb2808a9a3252e1d1a8be2765ee5d0d49a49f"
+    },
+    "000081": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000081.wav",
+      "sha256": "7913ed9b597e082f9847d975c5aab64695b806320077a381ef916b916ba353ac"
+    },
+    "000082": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000082.wav",
+      "sha256": "c90149f5f6384e2ca8b1cc31f5acdc907d3ebc75b61d41459f3de7ffeff71fa4"
+    },
+    "000083": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000083.wav",
+      "sha256": "7977040ca6ff36ed70f50576dbd6da7d8878c22374a2b6a18a86cc7a06c4abb6"
+    },
+    "000084": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000084.wav",
+      "sha256": "32e244f24cae64f0f7694028cbe2509fb42892f6bc567b91833d517b07defe3b"
+    },
+    "000085": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000085.wav",
+      "sha256": "942b4d1df7853eb2faaef3a7d55b8a5deeb3c348ef0bcd66f79bec18349c06c0"
+    },
+    "000086": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000086.wav",
+      "sha256": "fca1c431509b25c58d0b6ef5c82d13f993b1e873f91893f3fef855e85e3c554e"
+    },
+    "000087": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000087.wav",
+      "sha256": "5d4746eb16712af600afd7235252faffd412b35c100a6a5a30c685fa0ecd6ac5"
+    },
+    "000088": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000088.wav",
+      "sha256": "ba31815f073f9e24312322f438c37cec0a156fabd9f00328be733af5c07e1d1e"
+    },
+    "000089": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000089.wav",
+      "sha256": "d568406572fa2b3c5021ab7f9c273149087752de7c51b7319d85b4205129d289"
+    },
+    "000090": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000090.wav",
+      "sha256": "bdfeea087428a66faea4d526f5c3a02746f511b57c4bf2c70c99c6f923625ebc"
+    },
+    "000091": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000091.wav",
+      "sha256": "dcc9b947a5fe3983fb5fc3525babed48aab3ce982ec86009f682dafed31fd349"
+    },
+    "000092": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000092.wav",
+      "sha256": "8dc4c3df1208c6abfa051d787d771dc652b16ee2d59e5c5dd2bae2485d3ff865"
+    },
+    "000093": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000093.wav",
+      "sha256": "b0172736ce0cda53037d99daf3ba39c9f1de02ed7490921f981df459e1c17ec9"
+    },
+    "000094": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000094.wav",
+      "sha256": "b25c1306a9365d58cf0dd7b9e9fec5bd9f689f51cf3fc064348567932d87a056"
+    },
+    "000095": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000095.wav",
+      "sha256": "60edade65dc6a095006aa01c78a13e05eb90088934bb0e5aa8a618a3b8d06a6f"
+    },
+    "000096": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000096.wav",
+      "sha256": "a12f56e05c35435ba59163ab8cecf1d724b0579a3a715899bc3a6fd4ff62f73d"
+    },
+    "000097": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000097.wav",
+      "sha256": "83bec99df10feac7a788e0e16e119cc3243fa451b4e7d84999f0e631c88c5bd1"
+    },
+    "000098": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000098.wav",
+      "sha256": "4d96c1864141063bf09c01c20cfb5e7378ee60a9a822b39a4db25320d167d078"
+    },
+    "000099": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000099.wav",
+      "sha256": "cf297c8c85701f5b642da37aa6015ba2d53e14e1054efa540387c2b11c0918ba"
+    },
+    "000100": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000100.wav",
+      "sha256": "32b4332de9df45ddb555cf088b7cb9e31ff5bc41fc42b8a210e2d660261e0f67"
+    },
+    "000101": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000101.wav",
+      "sha256": "a3e9e40e63611c846cfa6f5065d19cbaaae7482986b8b598e7bb5b8fae436fae"
+    },
+    "000102": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000102.wav",
+      "sha256": "d9832f59974cd3ecc912182d2a7f37f2650f034fad980da73e57f74131670ca0"
+    },
+    "000103": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000103.wav",
+      "sha256": "1d88e4d14816d94b145ba8cf5b2e2bd5de22677a2b523cea68c12e1f3f913ebb"
+    },
+    "000104": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000104.wav",
+      "sha256": "f9b2739d209ee916d12b63209f07de93376ed3623db84bbd26e3efcd98ad8ed3"
+    },
+    "000105": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000105.wav",
+      "sha256": "39318e38ccf78d3ae6ab1a53ae944eab15381cb457802f11833b22e296d49380"
+    },
+    "000106": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000106.wav",
+      "sha256": "a8f1aaeeb84a136feb78940b41d0d10f646f1e1ee779e91c0a1e261bf5d4e4a3"
+    },
+    "000107": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000107.wav",
+      "sha256": "745908836b4fc53f5c5a88f587f3e35a56c6c12d247fdccf37e8b3eaa4a94ba3"
+    },
+    "000108": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000108.wav",
+      "sha256": "e2e9c5b732c05e91373d9113b69ab5af6479325bd57e9232cde9c52719f6a924"
+    },
+    "000109": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000109.wav",
+      "sha256": "c5243f88546921fa5323708aa84342368b6af293fdebf33acb17a019813bb734"
+    },
+    "000110": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000110.wav",
+      "sha256": "78df0b4b67b54dfaa9a0a03c16e7bba2c43a6f76417017c00b6accf7820c1370"
+    },
+    "000111": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000111.wav",
+      "sha256": "bffe13214286b7081fd4d135a4e9d483e4cd3c95722aef8feea9fbb840d27344"
+    },
+    "000112": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000112.wav",
+      "sha256": "06ca80e3258bb51b4c250391252a574af8b60a8b0118aac2b59bcbb7c64484ca"
+    },
+    "000113": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000113.wav",
+      "sha256": "cd65bb2076be69efaf67423e0553f949a3c47d6f69662dacfa827f750944ff07"
+    },
+    "000114": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000114.wav",
+      "sha256": "5fe5c9dea00b24605f29d619b2d0ffb4d28306ebb89233eef6bf663977ea8930"
+    },
+    "000115": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000115.wav",
+      "sha256": "d27b7de6af35f655d71d19a188ba3cdf56e661a9a9da0db64097deedea4d5fd2"
+    },
+    "000116": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000116.wav",
+      "sha256": "d077b678effb4621283c48455fd878604699f3fd06470fbed8e5ea6837030677"
+    },
+    "000117": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000117.wav",
+      "sha256": "5bdcd6151d64075e051cf023ea3c62b82147ef09deadbcf2746e7a960731a89f"
+    },
+    "000118": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000118.wav",
+      "sha256": "f2c7e80a81cb7d15cf59d2596945d01dd04e9b06fdf4a1cddb4a2f019fcfc4d4"
+    },
+    "000119": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000119.wav",
+      "sha256": "caa9aaec2e28be8fdf30d529b39fce7164bf9dc0a53a1bb6ed0986a4b4ef2bcb"
+    },
+    "000120": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000120.wav",
+      "sha256": "cd3688990c5d164575d64a00845a04522999a6b95a0babd03d4d1b8d81796feb"
+    },
+    "000121": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000121.wav",
+      "sha256": "7e6c80e86c0ee4cae8dc933aa3b00c28283e3e512c2ee05bb8b92e582e0499d2"
+    },
+    "000122": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000122.wav",
+      "sha256": "0b85bc7970abf14ec157739cdb3fe919ca3eaee3ffbc64b2dbb7d13f62cc7665"
+    },
+    "000123": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000123.wav",
+      "sha256": "37090b381ebc27239ab0da5cd7ce5069036b2270eb287629ae2234e267f770df"
+    },
+    "000124": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000124.wav",
+      "sha256": "6225d929c098d460da4c34b220a1ae769762f3a2e6e14518b8131261af3fd3be"
+    },
+    "000125": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000125.wav",
+      "sha256": "f0da9731ddac29ddd4089c4604ab31ba79958d7897f8f27ba5ed9880dd227ee5"
+    },
+    "000126": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000126.wav",
+      "sha256": "7ec04b9fa9a5db379eb54d6986dcb6306e8ce40055d8742da2d78eac9dc99eda"
+    },
+    "000127": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000127.wav",
+      "sha256": "0b19073f911b9981df563c381c5936055e6ebad7084a68bd222e3e17d273e066"
+    },
+    "000128": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000128.wav",
+      "sha256": "b787f6983daa623ab516a1a408449d398c9dec6119f79f2715a5512ce96d6c49"
+    },
+    "000129": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000129.wav",
+      "sha256": "88df7c09ade67d998829fbfcce941817590d6124a920206e8775d004f8e5067e"
+    },
+    "000130": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000130.wav",
+      "sha256": "405d9dd18d0d2214fc6b847739d0d9651955d441836e4fd0d950c9c76dc3ddd0"
+    },
+    "000131": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000131.wav",
+      "sha256": "981172643b80be9c04938604bfcdf3b6089465c7df858c17b312ca87662ed4af"
+    },
+    "000132": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000132.wav",
+      "sha256": "33d240327bdacedcf0a671a33c9c1dd8e45e62f582782213c78636db14741ba8"
+    },
+    "000133": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000133.wav",
+      "sha256": "6e1cba587dba988eecc18ec5596570a8d2a3d09457ae81b0eaf359323bd3cefa"
+    },
+    "000134": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000134.wav",
+      "sha256": "b149601bed1eb6269329a4fb4c74b716dff58f905e5f0cfb7c5eae0e85f8a68b"
+    },
+    "000135": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000135.wav",
+      "sha256": "ba8add014950f4dacbf1c3008848a38ec4d6f523b8fcbc4538771aa7d1da4401"
+    },
+    "000136": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000136.wav",
+      "sha256": "20dfb6de6c5b1dc0427c7e3f29e2dabfb228263ae3079d5466776909ad03c2c1"
+    },
+    "000137": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000137.wav",
+      "sha256": "004cd323e48e0fef518c4f68bf53e4fa1d23a8c9cf0a17ad342fdbdf8c184a18"
+    },
+    "000138": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000138.wav",
+      "sha256": "88975c22223654d60410940036f0f435b3db754bd7040f79190614e1661a1906"
+    },
+    "000139": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000139.wav",
+      "sha256": "941d84344e924632764b208ad0408bf5029461d4bd62319380acfe41d194aea6"
+    },
+    "000140": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000140.wav",
+      "sha256": "93be2335c1c504652615a4b325ef4c1c731d9ad56fa89dcb60a1c53daa160949"
+    },
+    "000141": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000141.wav",
+      "sha256": "e4e4b1e86ce123753dc7a0b2478f73c3500f01116d47af2952ae6e8055077a7e"
+    },
+    "000142": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000142.wav",
+      "sha256": "348a2e4ae56400a08ab4ca9099b7d337c0b93647be1d944f70bc27f4d187feb3"
+    },
+    "000143": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000143.wav",
+      "sha256": "895e5fad1039c252648fb67eecd65dd81dbd3e1a6a7981834657f88dfc16acda"
+    },
+    "000144": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000144.wav",
+      "sha256": "3c304f9e70f2dd7837dc8eab60b0d6d4e8639330e5ababf6ad8abbc49df84ffb"
+    },
+    "000145": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000145.wav",
+      "sha256": "e925006ebf6003f3b520d97a166fe489a0830e6ab78eec1f9909a16be133916d"
+    },
+    "000146": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000146.wav",
+      "sha256": "29bcbae3dabd48fb2e90873cf854f2f6263701c09d84791508ac3a97254ba77b"
+    },
+    "000147": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000147.wav",
+      "sha256": "0c23fa14be408cd0ee20627a0cfa227f589bce44f8a33343ac35c15bd7789141"
+    },
+    "000148": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000148.wav",
+      "sha256": "865776a9f79f79fbd7b59294eb1cd10725178c6b829d893699a213bb4e261644"
+    },
+    "000149": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000149.wav",
+      "sha256": "da9297845d2c30977923afa2a4cdd5b16a9303ab478c9292b2ee2a14ed387cbc"
+    },
+    "000150": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000150.wav",
+      "sha256": "2bbf78c7bf630e0ff4d7639dcf5b1065755e8139df8a56df5c5bf5f36b71251e"
+    },
+    "000151": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000151.wav",
+      "sha256": "02d6a0e4af1ba24bbe569851c0982a166964b83e84bc548b1b02118d434011a6"
+    },
+    "000152": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000152.wav",
+      "sha256": "0e03f64fa213fc1eb10bda22409bde362c3b86fad37f1ff8b43073b10bef5a9a"
+    },
+    "000153": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000153.wav",
+      "sha256": "b674abb7b205929964014b9c3f11975bd4bbe49bd05a29be5b39254c4ba07215"
+    },
+    "000154": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000154.wav",
+      "sha256": "6ce7f025f291b1b5daec6631d86e5f01d9f464f7725c784302ca8ef607844bc9"
+    },
+    "000155": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000155.wav",
+      "sha256": "70adc41a0cba7f44b6433837e35ed812d4aabe85f142e3d874a8e7a87a3ec837"
+    },
+    "000156": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000156.wav",
+      "sha256": "976f0d896eed1902b0c3ab2a5130f6a59e9beed9e2f5b8813f03e13db85ac29d"
+    },
+    "000157": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000157.wav",
+      "sha256": "4069292be249de3c7f217b88f57982686372cfd80b4099cbe582c3ea018bd6f0"
+    },
+    "000158": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000158.wav",
+      "sha256": "1e770e287e78f6a0dda6142c6e2f6b79b34c3d9246d702cd1d0be8d59346c82a"
+    },
+    "000159": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000159.wav",
+      "sha256": "d57bfb3f2d43901004026330c4f82e9cc2e98f33162dd7607732660335f1bf92"
+    },
+    "000160": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000160.wav",
+      "sha256": "3169ac42d510ed0eef2932d2efa8c1f42a6e51158ee359a50528eda8d80d3b36"
+    },
+    "000161": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000161.wav",
+      "sha256": "a165065c00a54add5005adce903cb242e8833a64980ef8efbb1cc664af036358"
+    },
+    "000162": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000162.wav",
+      "sha256": "c741696a5f499e0d693309adf9590cfa7b9b6de9fe43763adc01bc7fe19be387"
+    },
+    "000163": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000163.wav",
+      "sha256": "3941a2893c4cd2dbf89cd87c5a0b2f10d2cfcb5a34bb4ea80791ef3a3474284c"
+    },
+    "000164": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000164.wav",
+      "sha256": "c1c20e490e019b470e52e9a30180e3a17df688128a6e560f5fce1a726987bc58"
+    },
+    "000165": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000165.wav",
+      "sha256": "6e26726007356809385b9f930c1c42e0c9e479010bc2a0b3c2db37e58bcbadcc"
+    },
+    "000166": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000166.wav",
+      "sha256": "39fbc619cca37831e8e16369ca1f6a381b211b8665bee63ed42941ee21f95108"
+    },
+    "000167": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000167.wav",
+      "sha256": "c82bfb39cce87527acd729950673df9700bc9f307ac22803d885a810c875b5c3"
+    },
+    "000168": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000168.wav",
+      "sha256": "6a0eed9f8fd78ea250c85701143546be0db5cfacc3ec2746334033d1db9037e4"
+    },
+    "000169": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000169.wav",
+      "sha256": "34485f4f88130789d3da5e2599028ef1d9f670b038ce364a8b5b7058369af7f3"
+    },
+    "000170": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000170.wav",
+      "sha256": "c9d6cdb33b1ccdf53d9d28b7b71e6db70a70062448e6898b34740acfbafd59dd"
+    },
+    "000171": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000171.wav",
+      "sha256": "bc6b6b3a7fedf0cfcfbd1e176fbf7cc53c0c4e95a6753e9aceda2acedbaac719"
+    },
+    "000172": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000172.wav",
+      "sha256": "6907ba17068d73df02e1fd3ddd0756a52e41c840571e0a77da120601b2c9e238"
+    },
+    "000173": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000173.wav",
+      "sha256": "1ecd2690d3287884c9441ba743579a8f5e6be0064e77dcde70b8e0e7c9c8ef87"
+    },
+    "000174": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000174.wav",
+      "sha256": "67b4ee2ae96b6bdff630186c2032060f9b817d45d693d530b544b28271c3b8bc"
+    },
+    "000175": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000175.wav",
+      "sha256": "776692f7c746bfb8cb321dc76c199270e25bf3d8129a8690ac587a5892880631"
+    },
+    "000176": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000176.wav",
+      "sha256": "f40c7fb702c6b6a6838dcc42ffa67a030069d00b87eefe2eb984872a081fa8a8"
+    },
+    "000177": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000177.wav",
+      "sha256": "736e959538f9822a33648f1cc792a8918d7f170f5c0bd5ad126261ca79ea3577"
+    },
+    "000178": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000178.wav",
+      "sha256": "17b4bc9a42c4960adb80cba4fba5b039579164fa2211cc031649989a531f00e2"
+    },
+    "000179": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000179.wav",
+      "sha256": "d5aa4f813ac8b9bff3a0be8e554f70e310b2dedabbb7966c9ac975d0b1ceb28d"
+    },
+    "000180": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000180.wav",
+      "sha256": "6bf4cdfacadc9597eb206e57a151d5c81ab0966c0e624c983ff3131b88e3dc10"
+    },
+    "000181": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000181.wav",
+      "sha256": "6442080b8e8880fb9f4ca376d0826ea189cc154dd3605c55277a27458b049bea"
+    },
+    "000182": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000182.wav",
+      "sha256": "7807f18b14646e93496d161ad7538ec4061e6a2af7ddb06a3cfa61b883eb62e2"
+    },
+    "000183": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000183.wav",
+      "sha256": "f11b8c9f7600001163861915011fdf66a00557eb52f7cb5fa8406b6f98b7bb12"
+    },
+    "000184": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000184.wav",
+      "sha256": "623280a38dbc672eefb21099b56b332db9703b4d8b8797f9588a26419c27bb89"
+    },
+    "000185": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000185.wav",
+      "sha256": "79f26a2088a1d67085534b20c0b12aa3909fda8260279e0ebbac44ed155bf6d3"
+    },
+    "000186": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000186.wav",
+      "sha256": "87cc561ac990f74cefd0f5df0bb9a3b7fa35d0aef1ee421580768919df90a587"
+    },
+    "000187": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000187.wav",
+      "sha256": "cd2578cadc10cdace2d3fd9ff3893fcfcd8cdf376354dd79f6cdba928f42423b"
+    },
+    "000188": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000188.wav",
+      "sha256": "38563d3e22bf21f27cc3da57e48f16462a404ea6b313853426ed51ad00a2944b"
+    },
+    "000189": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000189.wav",
+      "sha256": "7136377b83e78e96431b821278d505647134adbee6d5e401f6240e9dedacb4d5"
+    },
+    "000190": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000190.wav",
+      "sha256": "26924d32d149a7a9ef698d49288710cc4faa4584419b106e28257c3dc74df137"
+    },
+    "000191": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000191.wav",
+      "sha256": "e1e689330403fc8caf2c65157d4c047b820c3dcbb10f7482b07a58446709afbd"
+    },
+    "000192": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000192.wav",
+      "sha256": "01b02462316aff4ba06ad6890a652ab49717dbf191eb10a66f07367ea439c6a2"
+    },
+    "000193": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000193.wav",
+      "sha256": "712c27fe5825806238438db3c335a25ce78c9356033ae69c8b97dc9e5805156c"
+    },
+    "000194": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000194.wav",
+      "sha256": "85b71b3003755645bf333e2c23b7072a84022ef639a9768e79bc8794e884bcbf"
+    },
+    "000195": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000195.wav",
+      "sha256": "ceb9732ba210bdec16ad04e83c7239891a082f6353731f03098c3b1c295c5fdf"
+    },
+    "000196": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000196.wav",
+      "sha256": "d4d0ed48277defc2ccb3d1bdccccddeea01b18c942d12df60b9a999ce6263a86"
+    },
+    "000197": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000197.wav",
+      "sha256": "f966655b87e0e8ed3b207cca6894d98f84d4a2dbd906378fb77ee5ef4fc249e6"
+    },
+    "000198": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000198.wav",
+      "sha256": "d1e663c154e7234c63ad861a8d0f78b8485dc13e27c34a68c90579230720e6d0"
+    },
+    "000199": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000199.wav",
+      "sha256": "b2d6797eec5f14c4b0dea6137c4c39e4cd753cc476954f50f266536f74ec58c7"
+    },
+    "000200": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000200.wav",
+      "sha256": "00d70420f6058b7792fd406590f79d748fe5c6313dd61dc4c7f11f8568d6f2ad"
+    },
+    "000201": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000201.wav",
+      "sha256": "2fa7e9e4172a69952882658eafe7bb9bdd1c996b0c6367dd02d74d25e4a53fdd"
+    },
+    "000202": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000202.wav",
+      "sha256": "90b1b109f9480eba66bd4584d4229cebd445af6590ff82999da0e2c7a026fb02"
+    },
+    "000203": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000203.wav",
+      "sha256": "5f1a97ee76551c2d4c060ac5f0fc3efd118d5e571a3b11091673f64219c1999f"
+    },
+    "000204": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000204.wav",
+      "sha256": "3dacd6f1c32f71fc030f2f3cf4a778288193f9d851f8044f17e4865446d41ded"
+    },
+    "000205": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000205.wav",
+      "sha256": "875dc857115859e74ff59cfd21bd8a81fbe2426c7f069a16350eb977a9125ed2"
+    },
+    "000206": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000206.wav",
+      "sha256": "884e1e6e2fc03eb50f492fca29e6df849ea9366adf3e34af36006c811925f912"
+    },
+    "000207": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000207.wav",
+      "sha256": "6f3628dd57486ff9267376534ee1a92906a74fceb6b5628755c20e767dc2470a"
+    },
+    "000208": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000208.wav",
+      "sha256": "121a73551d04b08eb59bb06d96326d8b6bd60022366d294b053066fca9e4d4d0"
+    },
+    "000209": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000209.wav",
+      "sha256": "ab32458635c8aa56ebb94644f43201086a0478c1f03555fdfaad544ce8373d2e"
+    },
+    "000210": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000210.wav",
+      "sha256": "2da03e16bb452d5c0abbffc6de8215a31aaee4db5a820c12ba61cbc7606ece2c"
+    },
+    "000211": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000211.wav",
+      "sha256": "63152e68597831d035243feb1b4a95c104e66174dc939194db9f8664e93e3dd4"
+    },
+    "000212": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000212.wav",
+      "sha256": "3f155a3b1e665c256bcd3f8ea7e633fe5856ee9b83b16ded945f38ca5f387675"
+    },
+    "000213": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000213.wav",
+      "sha256": "510680af1b467d09cb538c4be30023fbe9e8686e44902fe97af92ba7d2e82a28"
+    },
+    "000214": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000214.wav",
+      "sha256": "af79115db7731134289a1fed98e4c6535690bd3bda8c57437703a85ab2424d94"
+    },
+    "000215": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000215.wav",
+      "sha256": "9a20e9b77a9920455944b4054b71e5a55161bb7f9714a178cd6bc7df8c137072"
+    },
+    "000216": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000216.wav",
+      "sha256": "acf078d72092851804fa161e59fdf68d4c570dc0d1e95d041d7120510841056a"
+    },
+    "000217": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000217.wav",
+      "sha256": "dd8a087672b83261bd53f8b9c6edac45f63d8c212da8fd1c65ce383f683635f3"
+    },
+    "000218": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000218.wav",
+      "sha256": "fa55001bcc4a09ed2a4c33761923197d06876db12848e9e86d15e1650becdc82"
+    },
+    "000219": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000219.wav",
+      "sha256": "d1b2192433a7e5c5150abe060ab8b6d9c932042758400ab3fa743e7a5079349c"
+    },
+    "000220": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000220.wav",
+      "sha256": "85351febe7beb2116e2af753d38529d7f5c449c3991e8cb8b999cc8c8318f9b6"
+    },
+    "000221": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000221.wav",
+      "sha256": "137f9a292091a58d90bf11cc957bd087fca9238658c7b4da1f19c03a615a0b09"
+    },
+    "000222": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000222.wav",
+      "sha256": "4374a5ee03c85b25f9707b0d2af60517ef3019803b279d6e1f2289c89798b24a"
+    },
+    "000223": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000223.wav",
+      "sha256": "d22f23e22ec6eaade9cacc474a7f8fca78a1762fb4c93d71b0cf853e265a4b9d"
+    },
+    "000224": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000224.wav",
+      "sha256": "c349d48b8637fbb43fc8d538f9bbfb3a45af4bdc617d65d3d825a6f98a7dd894"
+    },
+    "000225": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000225.wav",
+      "sha256": "c2c04dcfd3c2dee1afc0e56c39c139118333ee22b76ab17d696b5dc8aa8881bb"
+    },
+    "000226": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000226.wav",
+      "sha256": "0218e7358fc8659e1a7eceb78147f21fc839e96a989da30b2691fa5651593c08"
+    },
+    "000227": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000227.wav",
+      "sha256": "052fc06e51acf2987565a7ce72640b5a2495157c45e7517817a595f59a0b2d99"
+    },
+    "000228": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000228.wav",
+      "sha256": "6a8e0cf76e13e9793063fbe33ce829cdf42ee104216ee0537ee69dc92e272de3"
+    },
+    "000229": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000229.wav",
+      "sha256": "30874b0561be736b9fd18df8fe56eba2b3edca355ad346fd4d9d9d2e045aca43"
+    },
+    "000230": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000230.wav",
+      "sha256": "b58a1d0fc80c5d8674c8299d28a3d933b16813ad28ffff5edeea683ce9764d4e"
+    },
+    "000231": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000231.wav",
+      "sha256": "0ffbdb9fae292675b944b8d5c7aed235bebf7212f1652d5670b554c6536ddc93"
+    },
+    "000232": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000232.wav",
+      "sha256": "9e50f711dcc7cda3a31add08ef4f6267b744218696b05a2971fb6fbe62a5ac5e"
+    },
+    "000233": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000233.wav",
+      "sha256": "3fc0af81f71b7f620d0e0f966177ef80e6a9df8b8f401ab6c1f9f46b0cb62b84"
+    },
+    "000234": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000234.wav",
+      "sha256": "cfd882deedbb105fcc35fe7ef691de954f5c4ddacf884783758152ea748b90d8"
+    },
+    "000235": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000235.wav",
+      "sha256": "ba317f2c47a4c9a14fdc46330333a9fc19214bdef5d9adb059f7ec81f75d2f99"
+    },
+    "000236": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000236.wav",
+      "sha256": "3bf0f333eeefad0b3dfa9b3a225d3ef495450dd54a26cc6a4d378c355963b57a"
+    },
+    "000237": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000237.wav",
+      "sha256": "fb91a73435948ef071a9dfa2f5a9ea4a1a65ace425288f45df0824b17391278c"
+    },
+    "000238": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000238.wav",
+      "sha256": "386a79f4192c01fdfb132ee36c42d54ee8d91e91d0fc7bbbc5e981e878159da6"
+    },
+    "000239": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000239.wav",
+      "sha256": "355c5c85b123da21caabb7ece37e5469231e8392f990993d46b2d29f31a213f1"
+    },
+    "000240": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000240.wav",
+      "sha256": "28cb22dda04db5e11d47e41ba27002d2f6e0fcfc2cb3f001c9f2568af80ddea8"
+    },
+    "000241": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000241.wav",
+      "sha256": "00ddfd73013cb8fb1f199968ee4561d866b17d97a9a1ae33e11dc78b6bb6bb1c"
+    },
+    "000242": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000242.wav",
+      "sha256": "9cec511c788ad3edec133c61c5b3c2d4a5feca1c40ea21f9e84c8c1c94b09efe"
+    },
+    "000243": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000243.wav",
+      "sha256": "d5cf14e1e04300ff113513867764d46a4287ce7c80321e0cc5e4d62df2fc35db"
+    },
+    "000244": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000244.wav",
+      "sha256": "c79d68b9369b9cc8d4a0d7b745031671941e9a14bd99dedb4e6be86184cc5cea"
+    },
+    "000245": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000245.wav",
+      "sha256": "b47a44135c6bdfbbd41936bc15827f502535b8a3a97b67f5330735cb232e5baa"
+    },
+    "000246": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000246.wav",
+      "sha256": "4dcebf363e4ac6dc610df4dd3c7388cedfdbad05646eef6378918a67155603b7"
+    },
+    "000247": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000247.wav",
+      "sha256": "bc2ecae5583573598a54d2d8e08c0f54fc06276586354b5b9e354805a85e70ba"
+    },
+    "000248": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000248.wav",
+      "sha256": "af348ee816193b059a2c9bc356c2232f8437a4960e4d239152b37444ffbad05d"
+    },
+    "000249": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000249.wav",
+      "sha256": "1d7add507eb2afe56148dde1bb0c336e5f9ef2188894736e7262d02c0a322dfd"
+    },
+    "000250": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000250.wav",
+      "sha256": "e42be919e07245508f6ba44d708add7edd93222e091726855a3c329b82a37b9f"
+    },
+    "000251": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000251.wav",
+      "sha256": "d37bf7beb8cf1c33c116ccfffe9267341ef6c4e3e2df5191dfe6af3c1073c9da"
+    },
+    "000252": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000252.wav",
+      "sha256": "c6bda744352f9d55a1c816e2c495dd7533d198bc4c340b556c8788da40d2b473"
+    },
+    "000253": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000253.wav",
+      "sha256": "5eeb247c0712b4ba57fe3d8b3a47ef04ea0dc617d344f82aed02ce0e49dbf633"
+    },
+    "000254": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000254.wav",
+      "sha256": "d63a8b42d7170bc5b626b7dd4f085c242af8f49e037d2fbb90e30de292d68c4d"
+    },
+    "000255": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000255.wav",
+      "sha256": "1176fcc335a19e8f270bd080608cd3c3b11d7e283503a460b771894f6722a652"
+    },
+    "000256": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000256.wav",
+      "sha256": "c21307547146aa366c35f5c6bcf9069dc76163432aab9a0fdb6c57fa06c54f3e"
+    },
+    "000257": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000257.wav",
+      "sha256": "efb97e60a15d7c9a0c1e578626827dad9440c622bdee990ddd97ed729e3b1c80"
+    },
+    "000258": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000258.wav",
+      "sha256": "15323d6f8788581199a6f7fb98bb220a8fed7e4e4b56df29ddba8072058fef96"
+    },
+    "000259": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000259.wav",
+      "sha256": "42d4f101dd4efb9e2cdf3937290a2e66b4eca6783889885f48b0d7ea76ca3b2c"
+    },
+    "000260": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000260.wav",
+      "sha256": "36d923f4b940220a3eb298928d67ee2ac747807baea71aeb7a2ea45d0581d9c8"
+    },
+    "000261": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000261.wav",
+      "sha256": "15dd434abb65f759fece11cb3d7e255a2d6d398e48d5217184e56665fa3789bd"
+    },
+    "000262": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000262.wav",
+      "sha256": "6f4caec3cf1e4afd490e06205869d878f4c59c8e63b9d7e6e75ae9d77b6a4ec5"
+    },
+    "000263": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000263.wav",
+      "sha256": "15089574914cea7881b8ad0395b65ff066e146c7ab154161a44674dd64ae616e"
+    },
+    "000264": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000264.wav",
+      "sha256": "bf95bdedca56447b0f5b15914fa236f8c978f25758ec28b3b3f93cf927a7425e"
+    },
+    "000265": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000265.wav",
+      "sha256": "53f9972e35afdad7318853449ecc11eca7b3007849b1a009facf2b23c7a66458"
+    },
+    "000266": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000266.wav",
+      "sha256": "5ddf40e54df6aea52206ced6adae6cf49667d529a00068bc8e0c92ea27d1177c"
+    },
+    "000267": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000267.wav",
+      "sha256": "abf25206eb4e3a51ced20d238d71b7d5aef64a1a433fe33ebdf1cd7d474f5bc0"
+    },
+    "000268": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000268.wav",
+      "sha256": "e9de0da82a05759cb652a153e6b3cdba088baa281499758a26d2e4c1d94676c4"
+    },
+    "000269": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000269.wav",
+      "sha256": "c584c6aada899a41c461f27adb853faf994a37e20e6f2aa63bce7184c15e1265"
+    },
+    "000270": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000270.wav",
+      "sha256": "8f0feae2531af433d89d802844f30be1ad03ef7e304272e137437d509ed9a63c"
+    },
+    "000271": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000271.wav",
+      "sha256": "82cb15cb025b869da1aa8d01dced736dfbf53468a6d3f9035b0dfa80791d2e92"
+    },
+    "000272": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000272.wav",
+      "sha256": "65f828a9d8b532ea1c43d4e466f3e64ca4a4e3bb3bb1c89e175ac8c092c198ba"
+    },
+    "000273": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000273.wav",
+      "sha256": "62414c69e3a5abaf4eb613a49ca0d294ccdf195e152c80034352adbaa6e25c7a"
+    },
+    "000274": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000274.wav",
+      "sha256": "e43c3444477a9810f3c62252220f935900c6ade2d8df296ec25440646fa33ec7"
+    },
+    "000275": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000275.wav",
+      "sha256": "138e8e8ee2c144b9db81ad731db65f71af8153df4cfe1c35b1db2f597bbe79b5"
+    },
+    "000276": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000276.wav",
+      "sha256": "29e8010c3b78e4e42eb3bdc55367c4114e22dcfb1b3299b84ae2c80d5d5f5b46"
+    },
+    "000277": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000277.wav",
+      "sha256": "97081546727ed3b96c116032c1401342fa52805ae8a4a02a37b0b1c09a662f1d"
+    },
+    "000278": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000278.wav",
+      "sha256": "619a2f378e6f9452430931ae2e05144df421f40216985574eb6cc1543b6395f6"
+    },
+    "000279": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000279.wav",
+      "sha256": "e80c0689044139db2e7726761a7c370ed17e7117485a4944df1a3c3e405988f3"
+    },
+    "000280": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000280.wav",
+      "sha256": "079d7c1797a6ca15cb238f0b39dbeaaed6cc706ae81685707ebd1132deab5a20"
+    },
+    "000281": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000281.wav",
+      "sha256": "5f4707e4e04f6cfceaec12e16def165ddecb34e22d1d361999128bcef40b152a"
+    },
+    "000282": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000282.wav",
+      "sha256": "2775eefb5daa8e6c4690b1bbd7ac23daba5b40cf62f8d4e26a772a136a9728a1"
+    },
+    "000283": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000283.wav",
+      "sha256": "d6301d756c33b7d86251947d1432c5c8c950ba70a95c85cbfffdef69943bd9bc"
+    },
+    "000284": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000284.wav",
+      "sha256": "a31b5b6c0acbbc8ddad3b565699c3274fe29dc157924b84e6efa4abe19394e50"
+    },
+    "000285": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000285.wav",
+      "sha256": "9741e0eca8994219ab94c9b60ac238bf4f4012df0423b7368aa07a21b0db0d04"
+    },
+    "000286": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000286.wav",
+      "sha256": "a0c15d2819b6efe38196a5b4c2ad258390813e46b1aeca27cf0936d3ada75c12"
+    },
+    "000287": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000287.wav",
+      "sha256": "3a61ede5f1c9177e470c5a763189daf5be59c98b595edd268cd3c625351914b7"
+    },
+    "000288": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000288.wav",
+      "sha256": "be40f9a17687874d346336dbb58b8fbfae39527606bb1b9e2d1779465cb594c3"
+    },
+    "000289": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000289.wav",
+      "sha256": "4a367dafd76a14d8811d56804f5aab0fb2d121b2bd6d4eda0c7429b77217a40b"
+    },
+    "000290": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000290.wav",
+      "sha256": "bd576f0328cb41118705d8221cc91d48ced4b4a5433105939c763b528f4b2687"
+    },
+    "000291": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000291.wav",
+      "sha256": "4532a1c4141f2f7bb3dbdd5816ffbe79bbfc12e90fc85ea59db6ada85c1064a2"
+    },
+    "000292": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000292.wav",
+      "sha256": "4a2fca0943a1906a30b5a764e9cb0bfdc0ef96d756256a20260025f19c31eded"
+    },
+    "000293": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000293.wav",
+      "sha256": "83503edba47a14ef898d7f9226f1362b0b13d7ed7cad5f2f6fba57efa6c923bd"
+    },
+    "000294": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000294.wav",
+      "sha256": "ad5660e68f10e053bf835489867ea3bc7147258494dc74511b7a57bdcaa18697"
+    },
+    "000295": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000295.wav",
+      "sha256": "6e9e53dbcfb8bdcc57f65598342ee530b900d485fb3b0d1da1b574fc5eacf83e"
+    },
+    "000296": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000296.wav",
+      "sha256": "5b16fce9dd8a4671890bd756af815ced78eba992f3807a8831c15ed56ab9aec4"
+    },
+    "000297": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000297.wav",
+      "sha256": "d9999563468517ba0359bbc4a3fd1bb21a5095ab51325254331eec6aa083c1ee"
+    },
+    "000298": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000298.wav",
+      "sha256": "565a8a48bd5485068a4991f597c2666590b333b6f6a206c900c7e19a5f78603b"
+    },
+    "000299": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000299.wav",
+      "sha256": "2159b9bd5bbd046be48ef7b66fc24e967c8f7dcce80d45e9ada441e151e91383"
+    },
+    "000300": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000300.wav",
+      "sha256": "c53c60290f5575a7e5520990e88d422c4f1583641aa5741939c0800ccef77812"
+    },
+    "000301": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000301.wav",
+      "sha256": "677bb6c07a2cb77a1c7122555dd93f5938390552f7ef65f04d0d694ce6b313f2"
+    },
+    "000302": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000302.wav",
+      "sha256": "59595e2834a117cbd3ba4255591db276f832ef7f1b88523bb1b9094fb22b568d"
+    },
+    "000303": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000303.wav",
+      "sha256": "27da4ad5d6a03206773d17e117450c8bf27f4613547cc18322f791ad7314d14c"
+    },
+    "000304": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000304.wav",
+      "sha256": "ae7b065e14f4a2bdd833c3ca8bb6aa8ca146d4cb3ffe1b8b61d32642c5d9b306"
+    },
+    "000305": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000305.wav",
+      "sha256": "9733671178475e4a84f7c4e939ad8e44abd76bee1f4ed5aa9f12243f01d15bef"
+    },
+    "000306": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000306.wav",
+      "sha256": "9917c93889df02ba53d2345ad2bb80a9acc91067a7ee4ef91cd5c8d3604e4327"
+    },
+    "000307": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000307.wav",
+      "sha256": "f9721381a431fe41f6db7f8ef7a8e6753281069e9f980b5ccca58e548d464c43"
+    },
+    "000308": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000308.wav",
+      "sha256": "62dff81c99d99d3ab84387456ec09d488d26a2d3df7da5295c5e99729debd1c6"
+    },
+    "000309": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000309.wav",
+      "sha256": "fd5ddacf74d5c7b8a017c3c2d575e3ef4c36e0d1392ea4f770bf5d2a8e9e6383"
+    },
+    "000310": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000310.wav",
+      "sha256": "596dc69e081a715251997656812531773c14bcffd62aa1395dc4fef310437ba3"
+    },
+    "000311": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000311.wav",
+      "sha256": "8fae15376d458ae05ce5a7270aae4342e4a48f7ab9afbfacf9e984a3e7a50633"
+    },
+    "000312": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000312.wav",
+      "sha256": "3a23ff0c7eff2683e66270f7ba1c4d83a9959943bc557a751f047c94bf896eef"
+    },
+    "000313": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000313.wav",
+      "sha256": "4719751046a4aa1cdadd4c9caef23527044afefccf2f92be2dd4b07c67210185"
+    },
+    "000314": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000314.wav",
+      "sha256": "85663261d24fae178955538bb291cc4a913ecd14fb7bbbab7365245d2e8eabde"
+    },
+    "000315": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000315.wav",
+      "sha256": "e03f15a9b51d9331f8dc07acf922bdfc443c6c789d1e20aa188852da0a5b2c07"
+    },
+    "000316": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000316.wav",
+      "sha256": "aca2f111afdba634adde8f25fdb666b17483d507fa8fa852221b45e49148ad88"
+    },
+    "000317": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000317.wav",
+      "sha256": "823e70c6006bf6b597fe8d153191aee9b3c45c4b091860c134d03a612a5cba76"
+    },
+    "000318": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000318.wav",
+      "sha256": "1cdc45aa21491c8f200a526b19837ef0023b08a2fb9a2279f06b9be93f36986b"
+    },
+    "000319": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000319.wav",
+      "sha256": "25e8b544663f4f3c577626184a5e5662d12d86e45405da88bbad1611153b4267"
+    },
+    "000320": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000320.wav",
+      "sha256": "f7ba4620eada6f9a1ae1884667201ab600844c490f4eb0a5011887095a2e382b"
+    },
+    "000321": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000321.wav",
+      "sha256": "051d3ceeb057c615b33fd51f92f058e90dca1ab48ceaebbf98c27933dc136f13"
+    },
+    "000322": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000322.wav",
+      "sha256": "a559c0ccb1ce7ba2b3ee0287ca443aea11d13d60914308fbbde8dee3c8d142d4"
+    },
+    "000323": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000323.wav",
+      "sha256": "ca2ef593175895a02aa23d2d80a15d784700896f4981b8add8a1fc7eb2d51a19"
+    },
+    "000324": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000324.wav",
+      "sha256": "78d766a9da993d614517c954a5409a7832c50603f11481fc80b41d512efec5a2"
+    },
+    "000325": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000325.wav",
+      "sha256": "fe9977faf05927a3e25cc9b22790baf6ebb063d45d338229c80c6481359c5b1a"
+    },
+    "000326": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000326.wav",
+      "sha256": "3458bf885d5b0f00e9c8266bf5ebff90f2ad8e1f3a6963622a39edf384a8d17d"
+    },
+    "000327": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000327.wav",
+      "sha256": "20b0cca01710d64c72c5ad8ab3eac2d1814eba118434abecf41fb3cdc42f8606"
+    },
+    "000328": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000328.wav",
+      "sha256": "9c9b2526fd9fbe5aea66e74f45c736fd0e0d0fb84902df595f4f537de97b393d"
+    },
+    "000329": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000329.wav",
+      "sha256": "b40f71d2a248d4a128bbb78d93ee1d1352156f68b5ffef1cdfc10344a4782672"
+    },
+    "000330": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000330.wav",
+      "sha256": "783feb95169a4fbe0459dc2396f86eff887f645c64becc813be090c636d547fe"
+    },
+    "000331": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000331.wav",
+      "sha256": "71dc0fef15c695064aabed717421616604ce6d45896d4e882452dae57a21f6fb"
+    },
+    "000332": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000332.wav",
+      "sha256": "de0ce6e191c6b86a20829303fc54a066d17d487a4d3987d4eb9b2372468b4d0e"
+    },
+    "000333": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000333.wav",
+      "sha256": "32875be065037aaadb96cafa403e3509ca759b96f85bf74c2a0861abb49e15c5"
+    },
+    "000334": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000334.wav",
+      "sha256": "92ea10525e0ff1e137dd976bf40dc5568077caefcf01619f83e208ef2e27882e"
+    },
+    "000335": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000335.wav",
+      "sha256": "9bab65a6e700952741d6e3f7f66715d3cb89c62ec5ca59f2450929bc1ebd0eae"
+    },
+    "000336": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000336.wav",
+      "sha256": "a39998c024a1dc505c9eef5baa9e944d726f2042829803b2cda9441e539cc9fd"
+    },
+    "000337": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000337.wav",
+      "sha256": "e824e3d9b94be69c444d8cbb9aee85bb21111484dcdc0c384668a8d490cde228"
+    },
+    "000338": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000338.wav",
+      "sha256": "ac5851218ea8adece5a0a2a15f8ba72d90af8c9a8692cf2a03087dc6fa079735"
+    },
+    "000339": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000339.wav",
+      "sha256": "f8e5e25c4b9f18062ed56b36985f6f6e4038da101f8d6c87a657851d666f19b1"
+    },
+    "000340": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000340.wav",
+      "sha256": "a092cf387120cc984dfeff9b8d9bcbd26745092bc2b941872e0b83a2761cdcec"
+    },
+    "000341": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000341.wav",
+      "sha256": "5961105a012cc9b329ccd33f491791a8ebe267516535c5db0cc45d2781e7a304"
+    },
+    "000342": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000342.wav",
+      "sha256": "0994f6028e4ba147115e3d89193b5b24f45c93a8ec522dd9e2867fb457f5b16a"
+    },
+    "000343": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000343.wav",
+      "sha256": "fbdc62103084ba5717b0eb2172aeec3feb61091af5131a5f4155924da30fe230"
+    },
+    "000344": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000344.wav",
+      "sha256": "61e6f06dddcaae2923537bf62bc0731ddb3bc25c561fd0f9dd656567ac204c39"
+    },
+    "000345": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000345.wav",
+      "sha256": "e05e6cf697ca01147f437dfda267e519cf20823a84372e9cb49dd59d79fa03bf"
+    },
+    "000346": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000346.wav",
+      "sha256": "f7cabd40dffdba93c572b595e687f8df7a2b6592c0bc80b24655f2a22d08148a"
+    },
+    "000347": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000347.wav",
+      "sha256": "307f02f1e627e8ff7cad15fc9e8d4a87370fba7101011f6d09e885a8e4d6f7ef"
+    },
+    "000348": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000348.wav",
+      "sha256": "8b2f69d0ff751cb5d1fb094cced6a1824a93a3d0dff35efe938d116ca6ba1fa4"
+    },
+    "000349": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000349.wav",
+      "sha256": "a311a2a49fa61515b1bcf539cc5cfcf45981692f35a416a1f08495a42a36c9b1"
+    },
+    "000350": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000350.wav",
+      "sha256": "4b12f76738e2a4404d3b2da948128a7cb7cec3b41763d43807566437167b4a91"
+    },
+    "000351": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000351.wav",
+      "sha256": "f26e7b68e2b0f90af5efceea5912012c021fca335d80e8ca5ed86c09eb2aa670"
+    },
+    "000352": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000352.wav",
+      "sha256": "b69fd311f955171953dbed2cd498fea2c4665aa717350f75cc9c2eb24aa642d1"
+    },
+    "000353": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000353.wav",
+      "sha256": "93fe2387c4508d9da699c54820709036ada855d69f25fdbc2c42798ba1d586c6"
+    },
+    "000354": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000354.wav",
+      "sha256": "02b4d127ae892f406fb64bd74d509985946eca64ccc7d16f267d0fcd6b595fc9"
+    },
+    "000355": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000355.wav",
+      "sha256": "8168c2f45373381e346971dcbe9ce945ea625af3449e984a5651b5f6f91f470b"
+    },
+    "000356": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000356.wav",
+      "sha256": "199103e88a87b3057ff7f59ef36d8beeb90079babe27fc71a7ca02b3b6983709"
+    },
+    "000357": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000357.wav",
+      "sha256": "5059f6ec4508761fbc2448050094344daa1b24d674a954a33cc76de2f0155bab"
+    },
+    "000358": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000358.wav",
+      "sha256": "2541ee6631fa6afe4116926dce14952e983b74ebd6334e070762138f62b9d9e0"
+    },
+    "000359": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000359.wav",
+      "sha256": "f89b58faf9eeb24df3611e2d37fc0784a799faf687eac93e5d8607cb4015a763"
+    },
+    "000360": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000360.wav",
+      "sha256": "1efc6c9798723db04f6050bc078d16573267fba704a2fb0828899d696f9eb647"
+    },
+    "000361": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000361.wav",
+      "sha256": "2e8431cdec5a3a2f169c9f7e5b8752c80dd2df03fc85ac5c34417e8d573c4678"
+    },
+    "000362": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000362.wav",
+      "sha256": "44ef3256d4b7a823e78a7e130f081857f211fe27c7de1e9043ef6957d0e9fe78"
+    },
+    "000363": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000363.wav",
+      "sha256": "80c5c8b67684caad169a4dfcfbd8ab7f28f0b19caee372e00b75ee724da3a501"
+    },
+    "000364": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000364.wav",
+      "sha256": "afadaf9f0cbd2f56c5048c044a046fdece47be7ab16781d6f6648614e0beb76d"
+    },
+    "000365": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000365.wav",
+      "sha256": "ada8037112038ddcf069b8090dd0754fb4546ae604a3c8759067127883699434"
+    },
+    "000366": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000366.wav",
+      "sha256": "1830e72836d9be2beb0fcb1c07157fb203015ed8bfa02c47bd01487d30f6b0f6"
+    },
+    "000367": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000367.wav",
+      "sha256": "f646f33bc1d2c46e9c8d49fbe177e63e6c854b805897abe8718932cca6ca2824"
+    },
+    "000368": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000368.wav",
+      "sha256": "5bf5e4fae4802c5fac8bbb13a0378c5b76dcd1e44dbb36e8d8b6b3c67979da44"
+    },
+    "000369": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000369.wav",
+      "sha256": "86c147462ec7bc774c31771433210b7d51f3f923a01213c7a69c76acf932bdb4"
+    },
+    "000370": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000370.wav",
+      "sha256": "978989dcbb5094b98fbd523ce85d78d2c4189a0ad20d47211444ef9aacc7afee"
+    },
+    "000371": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000371.wav",
+      "sha256": "a4a8256f40a7b4690353b08f9f684e7c0cbe08eba0b93c63f5c1f3f4056543de"
+    },
+    "000372": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000372.wav",
+      "sha256": "40569120ce451e52351b3d6a47bdd0a0b99cec7267b7c674c1a2849b452680f9"
+    },
+    "000373": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000373.wav",
+      "sha256": "d6ae5708470553d068e3c934fb09a6adca13d3dd5402522e9d727dab5f859a09"
+    },
+    "000374": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000374.wav",
+      "sha256": "5c73260d907b1e0d20780d15172dd773a7ded8f9d40bbf82d57dfc80a3c19c8a"
+    },
+    "000375": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000375.wav",
+      "sha256": "e0ee6100da799365c8d4bb1d6d69feabf8c23badc13aeb08d5a919189de7d01b"
+    },
+    "000376": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000376.wav",
+      "sha256": "851c9ba7765a7b902548769831ba5bfcf91b2c8958312f0e8be350f1f15d27e1"
+    },
+    "000377": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000377.wav",
+      "sha256": "befc561e5f55aa54d86e175199979e303b2355dc9578b19f9adcfaa5c5338c88"
+    },
+    "000378": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000378.wav",
+      "sha256": "04d4cd616333984a6bf880d6564d84222e7053e4eb4bcff4ef2e0307366c93a6"
+    },
+    "000379": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000379.wav",
+      "sha256": "24c48c271ed42e9cfb64462be8bc9ed219d6e73cd06628f5a5d99ab4b8232f63"
+    },
+    "000380": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000380.wav",
+      "sha256": "5351b13fb34a578a804bd376514896198b3dba0b5a76415ab0b1bc9da346ab75"
+    },
+    "000381": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000381.wav",
+      "sha256": "be846bb908e1387b3c030d4cbeab2637956025fbe920a4db48b6222ce01b5028"
+    },
+    "000382": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000382.wav",
+      "sha256": "db09210c13f9a81f6abcfbba9ad6ec68cbcf0c0d1b569e0ba45dc435649000ec"
+    },
+    "000383": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000383.wav",
+      "sha256": "ca9e5f328bacf2bb0cd56b2e1c8dd00b86004392e7fe524b4a4c5255849e0602"
+    },
+    "000384": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000384.wav",
+      "sha256": "be0aeee9d88e08fc308981ea8987fe4b213cedd1bc8293666daeef2a0ed7b3cb"
+    },
+    "000385": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000385.wav",
+      "sha256": "1f4953ae298c5809ea4045631a477865888b21cd86e55813264c17169220a628"
+    },
+    "000386": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000386.wav",
+      "sha256": "09e0a1428d81b96b6e255ede10d9877b8a08e7f69cf382c22ad2b637ac4e3a6a"
+    },
+    "000387": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000387.wav",
+      "sha256": "d9ceb4a4b939f409f5a5a3f2abd9dc22824d014acfd545f81420182da630689c"
+    },
+    "000388": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000388.wav",
+      "sha256": "0898699ca4bc7707844c0eec247a79d3c0a1b7a51765c52d044c5a0350c64401"
+    },
+    "000389": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000389.wav",
+      "sha256": "0db7bc748ca8ae7a120e485996f469d9cb462d501a0a8f087ca756eff988d651"
+    },
+    "000390": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000390.wav",
+      "sha256": "cb72311b6dfe43406c9135a2df6d32bd70bbb8d71495895ce04d305761315fe3"
+    },
+    "000391": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000391.wav",
+      "sha256": "1c7b12199e680ae5bd2f1e226595b397a364dfa407c5c4a039ddf01877cca746"
+    },
+    "000392": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000392.wav",
+      "sha256": "d93bd7a26d85da841e57697b3d58b9b63ec3c2fa745011ea4d98fb7205edcbde"
+    },
+    "000393": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000393.wav",
+      "sha256": "2af0ed4d7ff18f7d4638aef241c9130dd2a58a5fa76e93aa34a09d3138b33122"
+    },
+    "000394": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000394.wav",
+      "sha256": "5b9e09af373fe1141d664d880487b2c3f29b18f3e33280d5c8bf2e5868fa08ee"
+    },
+    "000395": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000395.wav",
+      "sha256": "1ec0e940aebf55045d02cb43a79f810470afbac5a4948e93af2a8edd6ac3db7c"
+    },
+    "000396": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000396.wav",
+      "sha256": "fc21196f51d19cc40dac23a4d562c76dbf2128844e679589c438c2e1b7606874"
+    },
+    "000397": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000397.wav",
+      "sha256": "fb6075dbe21ed06d93efa0adceacc850bced4da14d30203610712e25127f833a"
+    },
+    "000398": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000398.wav",
+      "sha256": "38fda961b43507f817bb8315d5e70db8482a261c0314fcb6a2b77ebc84d74a93"
+    },
+    "000399": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000399.wav",
+      "sha256": "5e4c4fc64a6b3a9af42e74e6b3fc1d1002f6580d79fdf8764672f916951bd6aa"
+    },
+    "000400": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000400.wav",
+      "sha256": "a740c5965ed79f3485e8878814ba241a20126f706e265cac43944ebac5c1740c"
+    },
+    "000401": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000401.wav",
+      "sha256": "efd82e791b2134bd6e8913e6aa8993228b4f4ab2185c98dd233ac7d0e69b2d45"
+    },
+    "000402": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000402.wav",
+      "sha256": "d34e40944b6a5a82da775079cda8134d94c34b72f77101469bfb40607f835c7d"
+    },
+    "000403": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000403.wav",
+      "sha256": "197f3c7580014649c62dcdb33414fdc3d4d02bd7a07aaaf2d880d259a7081386"
+    },
+    "000404": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000404.wav",
+      "sha256": "e338fff5ba58666fb68223accef7714ea9a782d90b9ddd84698e1c34a4924721"
+    },
+    "000405": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000405.wav",
+      "sha256": "e2f2fb14f7abf0a83b14c8a2c38ea6857c97ddb5c56e37552afad6598987ae99"
+    },
+    "000406": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000406.wav",
+      "sha256": "78a85171bdd3d64d48bfe43fcd2a1b03e2d2544326448b304ee832b10aa8806b"
+    },
+    "000407": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000407.wav",
+      "sha256": "647b6364bb3dba08e3f5f72de3c0940d372c919c26ca643c53136d45e18f618b"
+    },
+    "000408": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000408.wav",
+      "sha256": "fba7ae115088cf802a56ab7e0da134172adacf32f014131f1558dee1b42d3487"
+    },
+    "000409": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000409.wav",
+      "sha256": "5ceb210179a965dcd2ca5c7ca77a531815a8f414a56b5cf1cf2d02ee1bd4f23b"
+    },
+    "000410": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000410.wav",
+      "sha256": "677cf106a2480976b05d642b809908109cd547671199d87dd95f8a79326daf5d"
+    },
+    "000411": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000411.wav",
+      "sha256": "70555a7036cd8fc9b2a6f9198516e386331c820b6713477d8a26978df61bcdef"
+    },
+    "000412": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000412.wav",
+      "sha256": "18ec27ed3c7f9941610ab46a2ae929b5e05b57cd6bc1ab4b8180ec235fd8e744"
+    },
+    "000413": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000413.wav",
+      "sha256": "627d1028e7039cdf4b585c18d66de7d5391e1a183a148db9913380535adf92e6"
+    },
+    "000414": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000414.wav",
+      "sha256": "eeb419713a0c751cac15079b7d5af78ec0f53908c277e9c497b5f84cecc7e76b"
+    },
+    "000415": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000415.wav",
+      "sha256": "1861da2292d411736a0b1f96c57eda9370590a01da42e52f9010859075384149"
+    },
+    "000416": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000416.wav",
+      "sha256": "397199341e37fcba1a1189e1d704651f3d12202be72605c1dd9206d91a19331f"
+    },
+    "000417": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000417.wav",
+      "sha256": "848b78c515746741787e96b53b79ce9376dad6d6726c98439c178d384dafc5b7"
+    },
+    "000418": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000418.wav",
+      "sha256": "47e24526b5a8b5fcb220c297d7acd388c75f6857e7e22f25ac24829ecb4bcf43"
+    },
+    "000419": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000419.wav",
+      "sha256": "6af3f8f54205131a9a029c300572c461cc5ba9cd5239c8b5ab3cf8d63c6ce749"
+    },
+    "000420": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000420.wav",
+      "sha256": "dff52015d7a4fad52f208e84f5340ab3e3f2291e1200a77f5a36a71d6c050841"
+    },
+    "000421": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000421.wav",
+      "sha256": "74d1919b9432cc9afd8cecc259567cdaf6e7e6e4ca24a349b4822e965f3e019f"
+    },
+    "000422": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000422.wav",
+      "sha256": "4f2e1824ca32834fae460c678e32c29e1be22d895e8f2e311b0eacdb27658f24"
+    },
+    "000423": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000423.wav",
+      "sha256": "e837a6895188615469c054598051a604f09b2c68f230b3cfd78a70316ee40687"
+    },
+    "000424": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000424.wav",
+      "sha256": "e9918f35b1674cad199e5a61b6473c7878fe253d282323d82b4da4a00bd9898b"
+    },
+    "000425": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000425.wav",
+      "sha256": "d1bdf9cb721567e2c4e59238fb37f56d5acf6167eef0cf7e0355078aafe310ac"
+    },
+    "000426": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000426.wav",
+      "sha256": "85dd2957d54410282b6000953407a81932e28527033eb38a1449875d748e98f4"
+    },
+    "000427": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000427.wav",
+      "sha256": "63898c9747d254002e873bb2de8181c0889876a18fcedafe333e813823a65918"
+    },
+    "000428": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000428.wav",
+      "sha256": "3fb21a88b561c3c951accb305056b3953b0b76c0388982947aac06e1899465d9"
+    },
+    "000429": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000429.wav",
+      "sha256": "443ed435c985c27ffa753709e5a4c743b7a8cc7817ebd4435140f906c00a991d"
+    },
+    "000430": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000430.wav",
+      "sha256": "059931de74214c43455ca10ef1c0b8bdfe0dbbc31ec698f2d94d3a0385d360d0"
+    },
+    "000431": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000431.wav",
+      "sha256": "c6cc56af81411aa0db130e67f1cee0c4927ab70e6438a7107780075d270e416d"
+    },
+    "000432": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000432.wav",
+      "sha256": "3ceda688e1ea240526538b168609eacf509f321feabcabc4bed06c2ccc40b3a1"
+    },
+    "000433": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000433.wav",
+      "sha256": "d0d0df758f187bd3e935740e1fce9914da8988dbc13188f112cc880bd0f538b3"
+    },
+    "000434": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000434.wav",
+      "sha256": "16cbbc9cbf073b639d179ad86da81d6be22cf60f22febf120bade2ecbdf126a5"
+    },
+    "000435": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000435.wav",
+      "sha256": "9d4a5753e5d5cbeac4ef54ace9e6faeefe5ad871bd55b28553ae2f8e2dbb8f09"
+    },
+    "000436": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000436.wav",
+      "sha256": "f7bd860575ecd77d9f2a1d504287b917347593bd0c14da6660bc31265895958c"
+    },
+    "000437": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000437.wav",
+      "sha256": "ae2503122a6c22d3e07d0990f1a0b25013d40d372b7006aaf2cc98eaafbe5024"
+    },
+    "000438": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000438.wav",
+      "sha256": "2a1418cdde697a48aeb1d77ff2fdc0abe1c2e450b76bfde7aac254ccfc2f4367"
+    },
+    "000439": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000439.wav",
+      "sha256": "ba80bcef7c9873c0962703dfeb4b2505894147a1f51957d019dbd20766a1a19c"
+    },
+    "000440": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000440.wav",
+      "sha256": "e631bf7cdcd19260e38cb6acff3b97f22b7c97b0237da304903797ca567a478b"
+    },
+    "000441": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000441.wav",
+      "sha256": "8777c3eb40909eb5be5725ac6a1c8979f09bcda7d57662fb548f773c175c22af"
+    },
+    "000442": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000442.wav",
+      "sha256": "2e4bf5fab0a2d9dbf1569af1da8bd954065335b46104878bd2db7ea9ac76b01f"
+    },
+    "000443": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000443.wav",
+      "sha256": "4d728993f8ab355288bdee94b52667493f4f3a27f2ea697669667b823408de3a"
+    },
+    "000444": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000444.wav",
+      "sha256": "c90fee564f198969f74f544463fdec665aa2be4a3b5cb6c0113f8b02891eb39e"
+    },
+    "000445": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000445.wav",
+      "sha256": "742cb5d9c8c2bb395494ba29d95e745a2bb9899422d2bf4f4ab59f7e0426a4c3"
+    },
+    "000446": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000446.wav",
+      "sha256": "ae0dc139203c4d14359557db68a2dba4d35d1abfd6344450f6c44d38a73cdec8"
+    },
+    "000447": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000447.wav",
+      "sha256": "901c91d7aadab8eaed6a5babf4f09b227c1406cc20e7e321fe5d77fd37e1f955"
+    },
+    "000448": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000448.wav",
+      "sha256": "c31a54e154a6c0fd366b4af96f11175d94fcfbcfbfc0e96338d1f4a3e37bf879"
+    },
+    "000449": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000449.wav",
+      "sha256": "c1febc2f6743280c5c8bf271bff4f46b7d93d67d77ae5703f1e850c831bd992a"
+    },
+    "000450": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000450.wav",
+      "sha256": "ab0dc53a524d2e306968c37b34f1c5aa93de4a98cf905812d9aaa58ccaeb8ed7"
+    },
+    "000451": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000451.wav",
+      "sha256": "350c58174f00bbf74f63791d0f2e49af4633dfaa375219569d76be067154bb70"
+    },
+    "000452": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000452.wav",
+      "sha256": "d06da5f1e23f73a9b2339bc20c24e608c60ba3716f2bc9a7c81c21134d825dab"
+    },
+    "000453": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000453.wav",
+      "sha256": "b74bb827bda7c47a9e0041029678a0aa3c4efa4f5691804e53fde3951affd6b8"
+    },
+    "000454": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000454.wav",
+      "sha256": "fdee23bb1fb77af96e3ba1982d9ed2109021a2caa2b28d07302abb17df0cb3b9"
+    },
+    "000455": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000455.wav",
+      "sha256": "d1c98188ad70806ea65f33d5f6fad0bbb675d4a981084a6d6962ac8769c6e8bc"
+    },
+    "000456": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000456.wav",
+      "sha256": "5cb587ef59072fb851f865ca08fb40d9063c2c6edf0bb5038d07bbaaf248864a"
+    },
+    "000457": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000457.wav",
+      "sha256": "1ff94a42eec0adf2594aff22411fa9f36155e43eac598832b5a47ccc2e5acec9"
+    },
+    "000458": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000458.wav",
+      "sha256": "415dc6d32d93a552b3d0f0b88119d0f9c2cddb1cb2283bd2408ab02d88fb3cb7"
+    },
+    "000459": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000459.wav",
+      "sha256": "c9918d0ec7f9f5be357639c864a089750314d9a901ee5852b6553c73e2d1b699"
+    },
+    "000460": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000460.wav",
+      "sha256": "5e957e19dc862d4ba626719c9e7894585023e65fa70a19984a7f60ca799f5ba6"
+    },
+    "000461": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000461.wav",
+      "sha256": "ab8e5bfaf85dc0e77e057944afc7165476b60648045186e7113a5164b6b076d0"
+    },
+    "000462": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000462.wav",
+      "sha256": "8298566ea10eeb1931db5ae7fa8a3aed2b67f0406c62b1cbbf25cfd3252415a9"
+    },
+    "000463": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000463.wav",
+      "sha256": "2edae9260b6e19c44b6f8b93296c52ffd8e9faf32bc215b16e701fc9861a9559"
+    },
+    "000464": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000464.wav",
+      "sha256": "a7d1fb5baf7ca699b5e41bd75f6e69ed8aa299ef7e310f679ca003edf7271b60"
+    },
+    "000465": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000465.wav",
+      "sha256": "200931399dabe9577db20ce69240845cab7bba251ba64d1aa576a181899f956e"
+    },
+    "000466": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000466.wav",
+      "sha256": "8bca5402712264917e82c6143ac56d17186ab95f763804943dbe7e3abd24fa03"
+    },
+    "000467": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000467.wav",
+      "sha256": "738a0e97df8a315caceb8ff6565d2e23b2c04382c98605c82e58bc5816c967df"
+    },
+    "000468": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000468.wav",
+      "sha256": "614487ed5a10e329ae549cd6889a2d42c1732f4fc0b8eec10c8e642c51c78fb6"
+    },
+    "000469": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000469.wav",
+      "sha256": "7ad7a12702a7caaa1212aa611f1b3297c6a161a0376efa9b17be41573d5f06b8"
+    },
+    "000470": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000470.wav",
+      "sha256": "093064cbcf9fe596bb88f097ade0f65b15049597b4c975e9176df63bc137c785"
+    },
+    "000471": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000471.wav",
+      "sha256": "3002a73c59d9e060e8b43b30836a31cec7e318273dedd82ec36bac5cced05830"
+    },
+    "000472": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000472.wav",
+      "sha256": "365c31854f4a3d2109ce1d75dd4ee2e3c4e0d2be8e0b0c9c14fea0f120fe75fb"
+    },
+    "000473": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000473.wav",
+      "sha256": "45fcb56148444b81555050b6bf016832d274fc18c42fbd1bf941174915500698"
+    },
+    "000474": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000474.wav",
+      "sha256": "ed380acc9b80894f940a2d1694fbc6e67a16ac228e6f33fe762b611dd4825931"
+    },
+    "000475": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000475.wav",
+      "sha256": "61a2470ccf528b992770a6203e597375e69ad48b969ec8e13ac04de6b36f47db"
+    },
+    "000476": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000476.wav",
+      "sha256": "e6be9d58aa042608ff433630a1c588fc8c4e56e9dc17036b075d5a81906dbeef"
+    },
+    "000477": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000477.wav",
+      "sha256": "c7f977ff9112ad86c4ae965e2e17503f215246215042f6250820133b2208208e"
+    },
+    "000478": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000478.wav",
+      "sha256": "7f4b1da72f5beaf27d2c4be0bb3740cbbeef819f7859265b67cb56e4cff6b469"
+    },
+    "000479": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000479.wav",
+      "sha256": "5d9fd571434677493f984a3b9cbcfc9842f294176b6e55e351a10b3be56db3c0"
+    },
+    "000480": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000480.wav",
+      "sha256": "bade50e2f7c9bb51b7c38b821942a7da5d2f632bb89c0e64fe06f45462cf2887"
+    },
+    "000481": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000481.wav",
+      "sha256": "da87bf9535e0ab3929f17c1296ea9de562fd94116a0455895f3fc0f70ff3beaa"
+    },
+    "000482": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000482.wav",
+      "sha256": "4c4529e56308f25801669f79505a66c2458a3a7c73700250e8840f2f76640f72"
+    },
+    "000483": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000483.wav",
+      "sha256": "318f8a7cd742fccf48225d43452400a92f10cbc65bdada02a83e11db6087f0b3"
+    },
+    "000484": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000484.wav",
+      "sha256": "1ebe285a7f843459c81338aaea0427f556c7dcea6272e6dc174da5a8e4bcc3ed"
+    },
+    "000485": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000485.wav",
+      "sha256": "333befa2e8cd79a38d1db32fd0530ff3490720e8e06e3e31f50cde9e5161dc32"
+    },
+    "000486": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000486.wav",
+      "sha256": "499c585448c2200c8247c63ba97b768ff5ca7f4f24bad263489d12518465c487"
+    },
+    "000487": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000487.wav",
+      "sha256": "1649acbfe53af7e7a7ec0f0d32fddbb112213020a97ad52b90ca8a75a57d0a93"
+    },
+    "000488": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000488.wav",
+      "sha256": "9d48188d2175eb0484aeae1f28a9ac07ce4475f22dcea764c15e73d7c9366dfb"
+    },
+    "000489": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000489.wav",
+      "sha256": "84b5fd2ae10d04a9d610a16fc23207293d020dadee29f04ba76adec129ae2ab7"
+    },
+    "000490": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000490.wav",
+      "sha256": "93aa59ef15f2879c243251183a4006141234cb9ed86a076d9dfa66852d6c1836"
+    },
+    "000491": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000491.wav",
+      "sha256": "f2d76c061976f3ea7e954fbe85d8aed773c8c7196e3aca4ee5501107facf0056"
+    },
+    "000492": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000492.wav",
+      "sha256": "1ee177031206890aa700e2032d2aabb712a26008092ae80a0b50705bf9cb925e"
+    },
+    "000493": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000493.wav",
+      "sha256": "16326401bd45d66390f11175495939a951daf7d2eaafe5f7eb956e528e2e9da9"
+    },
+    "000494": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000494.wav",
+      "sha256": "b55882660ca692706aaeab4f783381ac169d4bcc8d9d1ad76c6de82b5311b2c9"
+    },
+    "000495": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000495.wav",
+      "sha256": "6f9d80c0f762c60287be9af8ef5f8ae8fe8bf0a02033239d817f1aa2f87d1469"
+    },
+    "000496": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000496.wav",
+      "sha256": "0a0dbea92239fcc6c71fbccd5cc78f18b6dee437bdc40db8f09237d8f47574f7"
+    },
+    "000497": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000497.wav",
+      "sha256": "3916989fcfacf36a71053720a99306234a70aa9f86d052dad82ef0e572910414"
+    },
+    "000498": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000498.wav",
+      "sha256": "fc130c80e2c2390997b77e799ffc279a2fb031ae0f3d24531f95df2836fb515a"
+    },
+    "000499": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000499.wav",
+      "sha256": "75f1655bf4dbb0fd3d2084833c67cec6b41272ebd3d455e47c1244faa3f0578e"
+    },
+    "000500": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000500.wav",
+      "sha256": "541cc3d6964dc36b81e821d7b9e6ce4d9d535a88f6ce31551d2d7bee3143cbfb"
+    },
+    "000501": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000501.wav",
+      "sha256": "5abcc4ae25c32afc6ac26578c9ceb54b81ae2a1a321e31270379837c41299059"
+    },
+    "000502": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000502.wav",
+      "sha256": "05d4b4332558d397aa5778af74b984835e55bf855751659df7645f39db05fa03"
+    },
+    "000503": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000503.wav",
+      "sha256": "5b24e77ba7e17b3c955484c655f8855fc267cad766700480bb1e24fe083d80d4"
+    },
+    "000504": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000504.wav",
+      "sha256": "3e5698b6b273d48d600283f5e52a618fc92c57d9085c0834bcc0c4eb6183f430"
+    },
+    "000505": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000505.wav",
+      "sha256": "d620e825ac53b860b87e6347b1829971cf5eff2be5748aaea3705c9482e6c7b3"
+    },
+    "000506": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000506.wav",
+      "sha256": "116431fe78ece685d4b58ac255f5c4010b49c3a58bd463ee379f835461f866d0"
+    },
+    "000507": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000507.wav",
+      "sha256": "358b0a3904697ae39612a018ff2cba1adc4af0377260f56d02de247fd5e34866"
+    },
+    "000508": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000508.wav",
+      "sha256": "acc9fc3a795281c1942f5379a9bac44f9800ceae155d911e0d0e7f3a9c92e532"
+    },
+    "000509": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000509.wav",
+      "sha256": "fdd8618f26c901e0fa8c8857ca646f11007f43668796fb72ceba3478bb730218"
+    },
+    "000510": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000510.wav",
+      "sha256": "3dd6ca8a48205db16e8ac9e4dba4423b7cf8573011e363dbdcec7091ab0cce47"
+    },
+    "000511": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000511.wav",
+      "sha256": "9d19e6323485b26b0eac0aefd000b5077623d51141fa1fc35222bb6c3bdfd1dc"
+    },
+    "000512": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000512.wav",
+      "sha256": "47eca90c2b679fbd8653d7ea56631d9427ce509c47c05eaf00ccbd42542025f0"
+    },
+    "000513": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000513.wav",
+      "sha256": "b6bd6495132381f784a5b0cdfd5264caffadae4680e4faceede3007c1211588c"
+    },
+    "000514": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000514.wav",
+      "sha256": "269dad0d39b4db1d5a74ceb56746046b42bf0f0bfa762541b0dc7ca281ebb6c7"
+    },
+    "000515": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000515.wav",
+      "sha256": "2a46162cd5b80b3a10c2b80885823697a613a74f6ccf961d125e968273f9507a"
+    },
+    "000516": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000516.wav",
+      "sha256": "e474e5e9fa1db68eb93048a20c3ec58aea9459244ca9b6fb0abe11051ddc7778"
+    },
+    "000517": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000517.wav",
+      "sha256": "5ebf25edabae1da0e98ce62e0ffecffdbe31d2cf734fd003e0116cfb8474bfc9"
+    },
+    "000518": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000518.wav",
+      "sha256": "42eb62703395f8b22c2dc603601a0de246856e4dbf2e735ac50d5166dc157842"
+    },
+    "000519": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000519.wav",
+      "sha256": "c4420f3ebb1d91973b2968f7671ffd333fca1ba3d780a3f788aed38f7bfd206b"
+    },
+    "000520": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000520.wav",
+      "sha256": "bf0dffa99c470d9a491ef4372b1bd77215c18510e2220316cd20c63e6af788a0"
+    },
+    "000521": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000521.wav",
+      "sha256": "5891126a069d2e492a0d4618516fea066315ddde2ebdc7276cd70b7880542a52"
+    },
+    "000522": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000522.wav",
+      "sha256": "ebe2ef581a7eb25053fb6d6c0f73b6d06ade1789ff6c7d2eabbca3f2595bdfe8"
+    },
+    "000523": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000523.wav",
+      "sha256": "986841c8f17ee054ec3b2d5c48868ab9c71c47ba1f437521526e5ad60e9bfb71"
+    },
+    "000524": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000524.wav",
+      "sha256": "58639b0253ab73d8ee8f02cff4129bec32f086558b3067f1084ceadc7623c660"
+    },
+    "000525": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000525.wav",
+      "sha256": "6e9dec130a53f0c73d5b532f9bf19bb06f082d4391f675bc4a5acd97a69bcb63"
+    },
+    "000526": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000526.wav",
+      "sha256": "62310967710510e86c68b68c7967e1c93f17efabc7657b88e811e5cfa3a5a23c"
+    },
+    "000527": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000527.wav",
+      "sha256": "7ab431949a7076c40df39cd9fff6279680d405c6e327c9d2031e00fb0cbdb585"
+    },
+    "000528": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000528.wav",
+      "sha256": "757ad9367d408970c2f4b76e010173e0a5a5773c00aa99870b9b77f5e514b6cc"
+    },
+    "000529": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000529.wav",
+      "sha256": "d9d064a5ec756f78ece2ad8a6dbbae29b95e18398f98d3e91d084d073f83f85a"
+    },
+    "000530": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000530.wav",
+      "sha256": "a8d2cd69a0674339c24b76726d359100fc0e4b9d3b68946b8d948270bef35b7c"
+    },
+    "000531": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000531.wav",
+      "sha256": "864a803dfe26b06aa74487a3f6a89ae806d1caf82170f7d75b4c3faacd29d5cd"
+    },
+    "000532": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000532.wav",
+      "sha256": "fe5229b7be831322c496ee95583bcd9fb318389563c3d7b74a1010d551d80826"
+    },
+    "000533": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000533.wav",
+      "sha256": "970c0b587cb4d43a0d25c396c961d1a510493c4fe67fc2906b749cde4742db82"
+    },
+    "000534": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000534.wav",
+      "sha256": "871e36667d1bef90bf13776ff36e48d12b584b3a09ee50b2c096a628c88dab8b"
+    },
+    "000535": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000535.wav",
+      "sha256": "c339d1a6446c57cdb586b6787e9c7ee7662e291ad392d5fbfd542916dcbc0cd1"
+    },
+    "000536": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000536.wav",
+      "sha256": "0b3ab7e9364ad61eea60fd840b05e5942358bd571a0cd2f93a541b8167537bcf"
+    },
+    "000537": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000537.wav",
+      "sha256": "b3698b9f48c83914e9d15b53161eb35c7595eadaf65f6627734e7cff2ec9fa9a"
+    },
+    "000538": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000538.wav",
+      "sha256": "ec8eb32220604fbe6c4532a1cf611197e7f794f426d3fb34bc321ff7b7995517"
+    },
+    "000539": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000539.wav",
+      "sha256": "1cb9e7e2726ddfa3f3f1c103dfb52d7ab4477860ae8b2668767c230815b74fd5"
+    },
+    "000540": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000540.wav",
+      "sha256": "2d543aee4631260efb77fd7799d158981e6d3e1aa74473d677eab2f4d3dcef27"
+    },
+    "000541": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000541.wav",
+      "sha256": "69ef771e3acfeb94653fabbf3a9593cc7674fcca7b3e37bd60b261c66ea7ab59"
+    },
+    "000542": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000542.wav",
+      "sha256": "bc775bfcbc8037c3444f43ae4182fa2f916eca25176bf61bf84c7d5b2b5311a7"
+    },
+    "000543": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000543.wav",
+      "sha256": "f566396db840d4e136f13a4f283dc8cfc206ffa12b14051cb4f16384c5d9cf1d"
+    },
+    "000544": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000544.wav",
+      "sha256": "9616223bb8d801530a63fe1cbb350c06a76e5306c2fdc8b6fc9f0cf5857678fc"
+    },
+    "000545": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000545.wav",
+      "sha256": "6bab66a3d915ed5cd101e6323ed60acb851e77200822ae1793b0f11c7ab3d407"
+    },
+    "000546": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000546.wav",
+      "sha256": "df6068a7ee3325655e5c11c550e5fe410eacd27817d32dbe22202a48ac5a06a0"
+    },
+    "000547": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000547.wav",
+      "sha256": "b00a104444f34852a6968de73e25fe28becc8d8e9186620735402113b8ad8768"
+    },
+    "000548": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000548.wav",
+      "sha256": "525d1a31b1e146f8613b1488cb3cab9eb58244b418dbe7992d421e52acf32303"
+    },
+    "000549": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000549.wav",
+      "sha256": "6630884b7f82cb474eb019bd5b372120caa7aade636e18e068d450863e1223cc"
+    },
+    "000550": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000550.wav",
+      "sha256": "eed360a8987c6ee0f48d8bfae6a8444d9189a590e1a1505dc4db304f9d852a6c"
+    },
+    "000551": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000551.wav",
+      "sha256": "db4ccb454f07fdc8fcd15f0e37de4c8f797fe1ec3b1ec0c01493503f9d1a3593"
+    },
+    "000552": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000552.wav",
+      "sha256": "05bb2b13cc34d9908db044f0b50bf5a071cad08ed510f1d11dd41cc3e298dfdd"
+    },
+    "000553": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000553.wav",
+      "sha256": "dd0851e3aedf12fcbc91b8f736f49ada5f4b2114fe5a21af944905dc132935da"
+    },
+    "000554": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000554.wav",
+      "sha256": "deb33fb90ba39c9c873582417a62a9eae7dafab62a1f7d944aafe6260e05902d"
+    },
+    "000555": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000555.wav",
+      "sha256": "018be7649dbdd9f2ccf43cdfd1a3c39064d0a6ee2dac88db18be3e1f96be940a"
+    },
+    "000556": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000556.wav",
+      "sha256": "a5bc2ee896fce8a66db3191bb70423547b06901c4ce9a9ad2f7d12876758fe6d"
+    },
+    "000557": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000557.wav",
+      "sha256": "745ed01239eceb12a8bfb73a54a0b6c0ed819a7e5fe4717028dd382f79fcbba6"
+    },
+    "000558": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000558.wav",
+      "sha256": "d9d3a6410e433988807ede32be19d228b150b5630814ffdff267cb45fa3cf330"
+    },
+    "000559": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000559.wav",
+      "sha256": "0b288dd0298d2f863f847b3420c03529abb5c3b87fd430cb0392642086a0eb5d"
+    },
+    "000560": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000560.wav",
+      "sha256": "5dfbe7e88eb42f871f086f19fc8efea768db90b344cc8b1ae413085beab0faec"
+    },
+    "000561": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000561.wav",
+      "sha256": "719d859432bb4783ca26a1c42101ee335b52d3dca458bf95f74fcd968a53c4fa"
+    },
+    "000562": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000562.wav",
+      "sha256": "c3ec005721924254b680a3db0ef5d4c4b1017979c445abf41d995e3935f8eb4f"
+    },
+    "000563": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000563.wav",
+      "sha256": "b601077d21a95acdfd70f51c2ad021a182e3a93a82817b8612996d5733d1f518"
+    },
+    "000564": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000564.wav",
+      "sha256": "a517e8c302486d94b57be62a482d4ced4f4b270d9a4dd6042447743ddfd3c913"
+    },
+    "000565": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000565.wav",
+      "sha256": "90847c3bcf4dbaa6d5d5a91d3011cc396ae6905f6ac6e65c4bc3cd695cd2484f"
+    },
+    "000566": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000566.wav",
+      "sha256": "bfcbec5b8f4bce32160997a64967219e82da99b534b95acf91061d26bd38e61a"
+    },
+    "000567": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000567.wav",
+      "sha256": "b8c91dcfb6629ca5d0110a8a90774d5c54f787e5435c911ce2ae2a734a7bf628"
+    },
+    "000568": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000568.wav",
+      "sha256": "ebb15f376582f1cfa6b8be8fbf260b859d607e88447cd4aa9f01e061d1f4fa5f"
+    },
+    "000569": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000569.wav",
+      "sha256": "93c84da096f6d114d4c9f53cd11f2e44d97e5d17660b94150b22ff7f9f3bb66c"
+    },
+    "000570": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000570.wav",
+      "sha256": "efb1b51351a14902c63481c96f559aee56a8c1ddb99158127a18cb354d9afbea"
+    },
+    "000571": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000571.wav",
+      "sha256": "6f4af641abc2af2e2d803f50e8f3e4a0369d2b99859edc5fa8df947f0be8047d"
+    },
+    "000572": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000572.wav",
+      "sha256": "7e756cea1ec73c495927e280d574bbc96ccfd60c1ccd254ecc6d52b34461feef"
+    },
+    "000573": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000573.wav",
+      "sha256": "bafa3e9775b29f9b627c87627bfdab57fb93e3f840b6573ada1f1161e2abf9e3"
+    },
+    "000574": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000574.wav",
+      "sha256": "f89c214d08e339a11de8f92a35d1c165528583df8ca93cb607d3abcee226a8e4"
+    },
+    "000575": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000575.wav",
+      "sha256": "47d3b371bea04140abb3f264ee33bfdfc2a2e2d11ea75bb9e911e8d4d199e6c9"
+    },
+    "000576": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000576.wav",
+      "sha256": "005c13d44bf5c3630e67e36b1ac68d40a2142cee56b123fda4d3acbe31fea087"
+    },
+    "000577": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000577.wav",
+      "sha256": "2696e27a151d71207580cd9fd0b46ac47eb03177ab54d2b084fd867221247710"
+    },
+    "000578": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000578.wav",
+      "sha256": "892a4abef025c74a66b6686216cccaa5576f9969c9d6844c9fc80c22f93b30c6"
+    },
+    "000579": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000579.wav",
+      "sha256": "0d230a71c18b998c7f9e1a4f2421e0ed27b693aa210cf5d982644dd01e732346"
+    },
+    "000580": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000580.wav",
+      "sha256": "8aa00dbc91f5971e9497e314487cdf19ae26b3edfc4a0e7d97a23cd750317676"
+    },
+    "000581": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000581.wav",
+      "sha256": "46eb168b3492c08aa624848309d4fc80ced7eaa2b65f24f3c85f64b87ff3c4a6"
+    },
+    "000582": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000582.wav",
+      "sha256": "0b4dad7ed18bca47bcdc87ba4fac2ed76f3a3d20dcd597c140504594ec48832a"
+    },
+    "000583": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000583.wav",
+      "sha256": "931f94ed77853138e4cae19713a91b9db919676c38b25473945acb19ffa2b7d4"
+    },
+    "000584": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000584.wav",
+      "sha256": "dfeccecb5e6b2d4952059776520e9bed7bc00344ad4e937099ec77813fcf6b39"
+    },
+    "000585": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000585.wav",
+      "sha256": "818d359341683f27e650b0d94569b617d8121f86e0daf8d04e31b8cb016a351b"
+    },
+    "000586": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000586.wav",
+      "sha256": "ded3cd4be15ec0dd1190491746900f8e4c6aa22631bdf83e770933a175f47452"
+    },
+    "000587": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000587.wav",
+      "sha256": "ab66abdbf40ea6f2157b4d1285b7460f6fd3244dcff9fd53634c77cf70fc77ad"
+    },
+    "000588": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000588.wav",
+      "sha256": "b0f393a616a291d7fd039db2c473c28909cf4bdc61504e667cb0aa5a517230ed"
+    },
+    "000589": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000589.wav",
+      "sha256": "1e9f8005f287198d5c004f22f7f7096a114e821b974ab3122d572c1627973dd7"
+    },
+    "000590": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000590.wav",
+      "sha256": "979ec525e0e359c60ce47a75c71f43e17f3332594afefe5b5677f8b339083374"
+    },
+    "000591": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000591.wav",
+      "sha256": "ead62fa13dd4aa83e9a999ba48d18ff4bcb97f56a42e8459375d41e38c300861"
+    },
+    "000592": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000592.wav",
+      "sha256": "3f4efdff3598389d15e935603775204ead00949707f35ba9ec414a3f8e2a36e5"
+    },
+    "000593": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000593.wav",
+      "sha256": "a31f84f0f31d2326d449cb98b17f0086d2bdefa36f774af8d2d8e09e7f906d8c"
+    },
+    "000594": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000594.wav",
+      "sha256": "fccb83b6b3d0f037b4da6ba2ff0a63f076f3dbe59907e69bd2d16158f5933642"
+    },
+    "000595": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000595.wav",
+      "sha256": "2b60c70a37bedf2a05cbf12d7d98be3a83694a7b4707d4560f940cdfcb86e6ec"
+    },
+    "000596": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000596.wav",
+      "sha256": "c0d2287fe0add6d189e08ea5705bf891e480cde1b73ba8d940e4d8b2003f0d28"
+    },
+    "000597": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000597.wav",
+      "sha256": "a42ac9aed76b15e304fdb8428515a63f74502c95660183fe1a676163b5e3aebb"
+    },
+    "000598": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000598.wav",
+      "sha256": "6e6c269d473eb760f6c3c58e98ae7bac8d2da4e27731bcd9afa5dacb9b41b4a3"
+    },
+    "000599": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000599.wav",
+      "sha256": "309954c46c20aab1b7253394bb27aa0370e8a33eb47868ebc9036126be136558"
+    },
+    "000600": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000600.wav",
+      "sha256": "ff94874a1dc608381f8bd6c211b02c2cbab7eb3633da28fa2a5ededef1ee3c07"
+    },
+    "000601": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000601.wav",
+      "sha256": "afe6a1f0d0016b75cc9406e3c4c2b37532c849955ed1a130cfe137df32e74e97"
+    },
+    "000602": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000602.wav",
+      "sha256": "c97c5742bad71abaabd17863ee1fc71fe2719928c57cb6977b4ae0ed778cfddd"
+    },
+    "000603": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000603.wav",
+      "sha256": "f3b7fcee2a8e948e93f77fea39f2089f3d3bdc19aadb05be0c506df5e416ee7a"
+    },
+    "000604": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000604.wav",
+      "sha256": "63b147e0b15397062d11c2270fe3ad881279d713ca9f6f2ee3fc2819a2be0b90"
+    },
+    "000605": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000605.wav",
+      "sha256": "ebcb2c02a6a2e38a5a7d7b6218a37858cdd4b868d99affee87cac65a07140f15"
+    },
+    "000606": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000606.wav",
+      "sha256": "bbc2b20add803e3b70e5926feb85c322b861aca0bf8db012f722d942537638a2"
+    },
+    "000607": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000607.wav",
+      "sha256": "78ca80afd59c7d533313e26f066228bab5da8338e0bd962e5488f23f1d63f208"
+    },
+    "000608": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000608.wav",
+      "sha256": "d9239a08393eded322e5d88b2a32a7cd25df34cf061533114d8c999fd6d0246f"
+    },
+    "000609": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000609.wav",
+      "sha256": "6bc3126f140190443e1f562b549c83a449c51d300cee314341421b3462ab7e79"
+    },
+    "000610": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000610.wav",
+      "sha256": "84eb4e5938d213bc924a26c233db9a1ddf71f4bf9848670d009a8eebdf48f30f"
+    },
+    "000611": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000611.wav",
+      "sha256": "bcfb1ca1c5ac3dc02efe08aee37c3cca3fbcedcae9ceeb29468623525678d75a"
+    },
+    "000612": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000612.wav",
+      "sha256": "a0fb1fe6b478cdfb348401f0735e004875a7db73e402d4338b01737402961e4c"
+    },
+    "000613": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000613.wav",
+      "sha256": "de0fae6a4e0d25becf7afcd4b4b9a1a3711e6dff61ac3e04a158ab36127d6ebd"
+    },
+    "000614": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000614.wav",
+      "sha256": "2aa73c12770f408c4c294445f7191be10212277ddd4f147cd469efcd723bbfc7"
+    },
+    "000615": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000615.wav",
+      "sha256": "5a1b577f5887c09c54d613c4cbc86d20ff28076c4e501026f82dad86e20519c7"
+    },
+    "000616": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000616.wav",
+      "sha256": "aacc91d097b10b1d7a62edcd3f157a2415604d889bc43303216df306daddfe8f"
+    },
+    "000617": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000617.wav",
+      "sha256": "a3fbaba5a23b7a270c2545baa373767195fac7f263594eacc51903efd80efe8f"
+    },
+    "000618": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000618.wav",
+      "sha256": "8c881f88d00ea1266e6dafb84c3e0d3564c7445e164151bd02c729745bcfe944"
+    },
+    "000619": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000619.wav",
+      "sha256": "81aa06635c86ee8f665e96a47ae39aeea30320355438df99fb41dd554e369025"
+    },
+    "000620": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000620.wav",
+      "sha256": "75494095e82cbcf06b08dffc12dcf111f1237819d8bc1febbcab73f2175dfe9e"
+    },
+    "000621": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000621.wav",
+      "sha256": "ad60a903933cdda8f80aba89301416cd358251bb0356222623074190328bde66"
+    },
+    "000622": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000622.wav",
+      "sha256": "b99376fef6880ff6a3ba04a4e7d49e8048adb3caf4babee42a7060631838c371"
+    },
+    "000623": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000623.wav",
+      "sha256": "cbac57538524c75fab7987c0b52ce45a587802cac7be736a86940f0b7e52b20c"
+    },
+    "000624": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000624.wav",
+      "sha256": "adfa118a590d52b31677b3e9ac9513c5e5872209c2e4d2fbedff1cbc2dc35243"
+    },
+    "000625": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000625.wav",
+      "sha256": "5fc38083a3628c68b8b2af39f1c101f17436a2ff5ca16d6c2b3039a15a8f5992"
+    },
+    "000626": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000626.wav",
+      "sha256": "ff906c76c65c5e93d83a6eee924ec1f4ee8ca32d6cedbec62c094cb624cc65c3"
+    },
+    "000627": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000627.wav",
+      "sha256": "33f0982bf23622853662be1f17ead432b1a93f9eb3fd3334e1b8a7668d659513"
+    },
+    "000628": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000628.wav",
+      "sha256": "adc18c45bce4abd37c085053a04ab395d28ae98512ba5ac2593daef30d141c45"
+    },
+    "000629": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000629.wav",
+      "sha256": "e239471d118f09bbc7d992c4ddb5db7182ce0858f45322d00dc599c68f840aac"
+    },
+    "000630": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000630.wav",
+      "sha256": "ba4a73361031273be7230425219aab90f229e3fbc179ac815b43e2e98ba6b638"
+    },
+    "000631": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000631.wav",
+      "sha256": "76c3244d99bc463f7048b9ce2375eb355e7caf50cb9aedda6179f43f59a55cbc"
+    },
+    "000632": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000632.wav",
+      "sha256": "8312a00bb0b7d294f94398a1e8b2f4ebe40b57a100d4defe5dedc565e5eafc8b"
+    },
+    "000633": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000633.wav",
+      "sha256": "e80b1ad8fcdcf131215cf8ef630d50faa761debcdac3a6e0592d24ccd1da6347"
+    },
+    "000634": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000634.wav",
+      "sha256": "435755d6edcf9fcf95f60acfb7a911d5dd32f148b85d954c734fb24bd366fe79"
+    },
+    "000635": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000635.wav",
+      "sha256": "938bf06b60f623ee465c81e330e24256e13caf1c8b1d35b5d83319968eecf827"
+    },
+    "000636": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000636.wav",
+      "sha256": "9468603f58a235229e922810d2bc5cd064128ea2f109711afea8697a6a32ccf2"
+    },
+    "000637": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000637.wav",
+      "sha256": "991383dc899084d878e51f83adfdb4d0bfd7d24755c298ece04364f3ba2d1bfe"
+    },
+    "000638": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000638.wav",
+      "sha256": "a4bcb52fe88508e0255827300046b71a3b07134bd687ba583c8d785518eec464"
+    },
+    "000639": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000639.wav",
+      "sha256": "455157d283547814bc2f365b44bde548cf1964a59e403db7f51f80984de6e41e"
+    },
+    "000640": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000640.wav",
+      "sha256": "3458d2a5acaa02e263b3958d91cb3d94bdc01a8ece5ae92fc1b724b9da70f36f"
+    },
+    "000641": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000641.wav",
+      "sha256": "37edf2798178227bf9a5fc94f1bb342ea31cc7bcb847cb6fd0bf1073eb511c42"
+    },
+    "000642": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000642.wav",
+      "sha256": "410e42200a19e0a2777d5bd25177c2935ecde736f32d4433cde042efcf1809eb"
+    },
+    "000643": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000643.wav",
+      "sha256": "a9bcd1fb4bd6415f0d25f5465fc91f86c8fb164d480ff2b6c9bab0e9d4fb016d"
+    },
+    "000644": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000644.wav",
+      "sha256": "31fd09fc6e8715e9bde4aa64b87c9eaba7380621564abea6f27c4057b2cf27e3"
+    },
+    "000645": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000645.wav",
+      "sha256": "4dbc62254143360ae83f25586ca3a1aa9bd2be8cee1b6dd99872db880de6b424"
+    },
+    "000646": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000646.wav",
+      "sha256": "204f4a517cfb048936d603a715d218d1691c7b94042ee5fca4cdf7cd9b3d6574"
+    },
+    "000647": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000647.wav",
+      "sha256": "d04ab2a1d068c4935c9da485eb663474f1d85041f032c5f4e1434eb8015dba01"
+    },
+    "000648": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000648.wav",
+      "sha256": "182581a97d61c369c1e6341c5a89fda5e2b2076395e8bd90d0cdb94e54f3b536"
+    },
+    "000649": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000649.wav",
+      "sha256": "26bd65fec6f4b72ee1d54b063c06bf757df011719397f25c54e5b6c31d607970"
+    },
+    "000650": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000650.wav",
+      "sha256": "9bb91da3353ff6ab17acea27f419102e092433fa1910d98373bbd6a82e715fa4"
+    },
+    "000651": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000651.wav",
+      "sha256": "3334a817fc89e0862097edba1edc0b0fd0e6eb3c24cb00e70cc79fa4ef32a4f2"
+    },
+    "000652": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000652.wav",
+      "sha256": "503ce2b94b26b8c906af014e1b4e915a71eb342a7fd264f43b1a8a0b4de83d8e"
+    },
+    "000653": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000653.wav",
+      "sha256": "9ab96e5641c344218b7623d9bb2406d5c1720e810c9a0d98cb2cb0375b6db1c3"
+    },
+    "000654": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000654.wav",
+      "sha256": "aabf7b843df4cc2606a17d3416e5e12a66c0344002244d18ef61270e298e9da6"
+    },
+    "000655": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000655.wav",
+      "sha256": "0d1106ad8cea77ec3455722c4e2f68fd3dbfb3a4064d0286ab196907a1ed6244"
+    },
+    "000656": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000656.wav",
+      "sha256": "17c53dd05de44e87d32483cb6ae99fb8610c892a271591808a7ab94806d704b0"
+    },
+    "000657": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000657.wav",
+      "sha256": "61fcdf93091a8ad57ad057572bcd2f465457fc5c675fc6f587a1a774f3a68caf"
+    },
+    "000658": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000658.wav",
+      "sha256": "cb43e46a3fd18a2dd7fb9d36b9a356aaaf437e80da766e87abe0f7dc54eee6a8"
+    },
+    "000659": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000659.wav",
+      "sha256": "d5474fb4891c3c7a4ee65a5a3ea975656a8aee61a98c2fde30289290d190ed65"
+    },
+    "000660": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000660.wav",
+      "sha256": "5b42bd2965f583eb2bbd1a616ee02d9759f8a7f6dd336233250db48ab5982428"
+    },
+    "000661": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000661.wav",
+      "sha256": "27551a4d589c90f33b8716853a8fb8c9d0839f897389c4d3ccef9b1097167d88"
+    },
+    "000662": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000662.wav",
+      "sha256": "4bcaaa46489683cb6638c08d4fd6c6670673344a10f4e9f61fa88e35039bb342"
+    },
+    "000663": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000663.wav",
+      "sha256": "d9db7da6da088d05982ac7d365707957e5356519729327f98af59602a6d1b8c6"
+    },
+    "000664": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000664.wav",
+      "sha256": "53b8d2361f80d2674defd8a73a1df0d6ec8a008b24838f462bdbe1ec4945e2d6"
+    },
+    "000665": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000665.wav",
+      "sha256": "7dc14c6071ff13ac5b5b9c3a7bdae70191dc7f38d33874ae468e6ceb1141db4c"
+    },
+    "000666": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000666.wav",
+      "sha256": "7d9045d3785a1fabe1a823780a33e6a4fd5fb4e6f9a17c16e2568a9949a3f354"
+    },
+    "000667": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000667.wav",
+      "sha256": "9b1449c45cc7fd18e3646ec5429501c4c2c72ae334e56df302196a3a72a79add"
+    },
+    "000668": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000668.wav",
+      "sha256": "bd5d8f23ce6e4d31fd5b3c49de694382699d43dec5b92c552a882db4e0f136bb"
+    },
+    "000669": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000669.wav",
+      "sha256": "4c0b7b4031df8797668a7ce43a68a2157bafa316058cc7c587c44fb6b18ef179"
+    },
+    "000670": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000670.wav",
+      "sha256": "5d5b25ec68686216cb600ba012e877f72b1c44af82982ada28006dfa23d29016"
+    },
+    "000671": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000671.wav",
+      "sha256": "cada3299859dbca8fdc5dab8f9aa356806402a785c87ad878d95a91de20b4cb4"
+    },
+    "000672": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000672.wav",
+      "sha256": "7f053fbad4391c79978d211800e4cc3892f4b48810269ef3320dcde637c15a71"
+    },
+    "000673": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000673.wav",
+      "sha256": "6b2b4475489351b2d12fe776c22048d5b7bfb852c5c407c57b15d452f5af748a"
+    },
+    "000674": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000674.wav",
+      "sha256": "af7e90bfe5fe0d02e4ebbc976af1d5b01ea55997bac4b85c11fe268c685fea85"
+    },
+    "000675": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000675.wav",
+      "sha256": "345313f261d9a4e66b4704971b4a74580ef757a20cdb4328712fc046182c47ae"
+    },
+    "000676": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000676.wav",
+      "sha256": "cc849562155977b71c63d3ae3f854b1f1623e2b5230b12dec4ecd1838c9d5432"
+    },
+    "000677": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000677.wav",
+      "sha256": "397579f208db31bceeb818e601a7e60ee8fa81cd71565634351d7fd0a0794d7b"
+    },
+    "000678": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000678.wav",
+      "sha256": "ee544ad0a1c59fa8a2a4f360ccab5e8fa00e07165215a31b4d9f7c647f047aa2"
+    },
+    "000679": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000679.wav",
+      "sha256": "ab4a7bb94ae33cf578ffe9644164900bd1b00a29c2139bc89da9dbbf2d95dc57"
+    },
+    "000680": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000680.wav",
+      "sha256": "aa97045af5751c10e8d04c1aa921cd426565c2d22c52b258e423a828c7930248"
+    },
+    "000681": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000681.wav",
+      "sha256": "3f98290234513d6752b07362eb316e2228378a4b5ce711d98d252cbb1eec4a32"
+    },
+    "000682": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000682.wav",
+      "sha256": "3f16fe56d7e85691241c027a3ddaca733c4956ae6ce32c5e327466d42d23048e"
+    },
+    "000683": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000683.wav",
+      "sha256": "b9acb20555297afe19cd168ae91a2e02dd78dbc65881516f4e89bf8eb36fc13c"
+    },
+    "000684": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000684.wav",
+      "sha256": "818d8e05816ddebfc5bb8889b99565a9267e07f21bd8336e29f956f888da9669"
+    },
+    "000685": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000685.wav",
+      "sha256": "9359e5c032140b0492e0f4f218cd0ad07c97a1004ced8544f18f141b874ce004"
+    },
+    "000686": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000686.wav",
+      "sha256": "c4ecd99298233584182eceac3ec1dc1d519464eb03c07e4788a6ceeb48fc72d0"
+    },
+    "000687": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000687.wav",
+      "sha256": "0ba58c7ec960e910a1e542aab21a165b8960697469d8bd7911dd32fb7af3aeb3"
+    },
+    "000688": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000688.wav",
+      "sha256": "d6bc3a995b85ff5d3d2a667ba1eeb8215d16e646a431d4fad05c876a550599cc"
+    },
+    "000689": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000689.wav",
+      "sha256": "ad2397c81c2cf82377626103c1f33d87372150112b316fc340054575a513fc73"
+    },
+    "000690": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000690.wav",
+      "sha256": "882d33439b9c9543419c1b1c163173e8c1767fe3ff29b638d3f91b6dc562ea0a"
+    },
+    "000691": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000691.wav",
+      "sha256": "aa057c1d58e7a357962b77ca5230cb48e4e6875d09957d9f6252c0ec1204f0f7"
+    },
+    "000692": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000692.wav",
+      "sha256": "c1b70a9bad9c5a862729f16fdb6688ae038f94b62ca370dec517d8aad17fbd17"
+    },
+    "000693": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000693.wav",
+      "sha256": "c3b26898f022ec3f03fbaea73f13ad1ee25db3d06762159a81d74963c5de5b90"
+    },
+    "000694": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000694.wav",
+      "sha256": "f40a2475783c126f3227ae008f9a2d3d3d924f24f18e7893e2d0f1b1374d273b"
+    },
+    "000695": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000695.wav",
+      "sha256": "b95e73db5e88373127c0293ce50dd0fee52b55e86720f27a3b2a95d4d4c2ea8b"
+    },
+    "000696": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000696.wav",
+      "sha256": "564d7bf9b0e6647ac1546ca66d9a90ce01c138b0b0268cef4ce9f42045c6e1ce"
+    },
+    "000697": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000697.wav",
+      "sha256": "203ac6eb46f99835738fc63d4ce184196516bf9030ba2d4368a91d4370c86544"
+    },
+    "000698": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000698.wav",
+      "sha256": "68f50bc1139e1e51510b8a3302918732cfe2efa3f0c5f1189caa413dbd302445"
+    },
+    "000699": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000699.wav",
+      "sha256": "21c9cf757812fddde61813f2f9bee083297bc2f8325c32da1ab70c2da99a2f6b"
+    },
+    "000700": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000700.wav",
+      "sha256": "eb16b7340324cbbe1204c367fd4e333c4e42fd6e35e247418494de5c6444bcac"
+    },
+    "000701": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000701.wav",
+      "sha256": "51887356013dc73e9075d66056cf09e24aab32060bab1f72b7ff8f4725ae56fe"
+    },
+    "000702": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000702.wav",
+      "sha256": "76e8cf37d5fb06907929bdcaa8bdb76f917a19b973e2b41bc3ca99817f3e01d3"
+    },
+    "000703": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000703.wav",
+      "sha256": "ff479be759db4e6b2f594dc593cdb8b3cd4de57332811d9afd0f34baa368ffa9"
+    },
+    "000704": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000704.wav",
+      "sha256": "adf910521efc8972889049826ce283e0f9be7e0f53b8d421745129592db9726e"
+    },
+    "000705": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000705.wav",
+      "sha256": "00176433678ce2a5f5f10403fc0ec1cb66ba156aada6790f4ed16d7ebb0f7078"
+    },
+    "000706": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000706.wav",
+      "sha256": "988db2b37f240cb0384a6ead47fa8c55db89f15af4c93b39b728d2bc72041327"
+    },
+    "000707": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000707.wav",
+      "sha256": "b0d2ece0a4f7576544d0594921aa2e238bcd7a9cab0aa71a42a48d403dfceff4"
+    },
+    "000708": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000708.wav",
+      "sha256": "3a09b2ed72daf003aaa4994ab381ee2f8de3e0375030cbd6a9f335757f4c6c3a"
+    },
+    "000709": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000709.wav",
+      "sha256": "3b5a541f0b0128c45b5150b16af39beab4936a024c4b85aec5e4486d562d02a2"
+    },
+    "000710": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000710.wav",
+      "sha256": "5bfd10fd725918f46e79ff1da590c583f0cbd1a3aa766a2c7d1b4c5515cc1e29"
+    },
+    "000711": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000711.wav",
+      "sha256": "b03f013e3898f18d6e43dc8dbf9342e5d70f23e22380263ad466a0f3ef69052d"
+    },
+    "000712": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000712.wav",
+      "sha256": "2a80c14b8de1d8292f5de3868c44b57b51b0385b364d9c79bce0ed67477f3418"
+    },
+    "000713": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000713.wav",
+      "sha256": "07be224498b9894accccb93f329a2131b6bf6c987db7ed943118c72dcca79766"
+    },
+    "000714": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000714.wav",
+      "sha256": "10984c230b441851278ff798ef11d87b1ba325ea5bc6af4f10f9fd43038c7f93"
+    },
+    "000715": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000715.wav",
+      "sha256": "a668796b584840efd4104f21ad6c953ef18bb2612f48bf082d4a1c58784eedb4"
+    },
+    "000716": {
+      "path": "C:\\Users\\Admin\\Documents\\School\\Fall 2026\\PDF_TO_AUDIOBOOK\\Output\\segments\\000716.wav",
+      "sha256": "4886c7f2b2df316e36f8dc49b3b7ef91355fd8e139313d65e8ad136bbf3b93bb"
+    }
+  },
+  "status": "running",
+  "version": 1
+}
