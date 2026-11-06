@@ -1,4 +1,4 @@
-# PDF to Audiobook
+# PDF to Audiobook -- THIS CODE IS AI ASSISTED
 
 This project converts a PDF file to an audiobook.
 
